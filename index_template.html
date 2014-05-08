@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width">
+    <title>Books</title>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="https://mngu2382.github.io/theme/css/main.css">
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="https://mngu2382.github.io/favicon.ico"/>
+    
+  </head>
+  
+  <body>
+    <header id="banner">
+      <h1><a href="https://mngu2382.github.io/index.html">:testSite <strong>a work in progress</strong></a></h1>
+      <nav><ul>
+        <li><a href="">Books</a></li>
+      </ul></nav>
+    </header>
+
+    <section>
+
+      <input type="text" id="search" placeholder="Type to search" style="margin-bottom: 10px;">
+
+      <table id="BookTable" style="width: 100%;">
+        <colgroup>
+          <col span="1" style="width: 30%;">
+          <col span="1" style="width: 70%;">
+        </colgroup>
+        <thead>
+          <tr><th>Author</th><th>Title</th></tr>
+        </thead>
+        <tbody>
+<!-- Insert here -->
+        </tbody>
+      </table>
+
+    </section>
+    <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript">
+    var $rows = $('#BookTable tbody tr');
+    $('#search').keyup(function() {
+        var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();    
+        $rows.show().filter(function() {
+            var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
+            return !~text.indexOf(val);
+        }).hide();
+    });
+    </script>
+    <footer>
+        <a rel="license" href="https://creativecommons.org/licenses/by/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0;display:inline" src="http://i.creativecommons.org/l/by/3.0/80x15.png" /></a> This work is licensed under a
+        <br />
+        <a rel="license" href="https://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.
+        <br />
+        Hosted on <a href="https://github.com/">GitHub</a>, powered
+        by <a href="http://jekyllrb.com">Jekyll</a>.
+    </footer>
+  </body>
+</html>
