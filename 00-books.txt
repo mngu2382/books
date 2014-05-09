@@ -7,7 +7,7 @@
 <tr><td>Ainsworth, W.H.</td><td>Windsor Castle</td></tr>
 <tr><td>Akhmatova, Anna</td><td>Poems Of</td></tr>
 <tr><td>Alain-Fournier</td><td>Le Grand Meaulnes</td></tr>
-<tr><td>Albee, Edward</td><td>Box and Quotaions From Chairman Mao Tse-Tung</td></tr>
+<tr><td>Albee, Edward</td><td>Box and Quotations From Chairman Mao Tse-Tung</td></tr>
 <tr><td>Albee, Edward</td><td>Who's Afraid of Virginia Woolf</td></tr>
 <tr><td>Aldington, Richard</td><td>All Men Are Enemies</td></tr>
 <tr><td>Ali, Ayaan Hirsi</td><td>Infidel</td></tr>
@@ -34,7 +34,7 @@
 <tr><td>Aristophanes</td><td>The Wasps/The Poet And The Women/The Frogs</td></tr>
 <tr><td>Arnold, Matthew</td><td>Poetical Works</td></tr>
 <tr><td>Atwood, Margaret</td><td>Alias Grace</td></tr>
-<tr><td>Atwood, Margaret</td><td>The Blind Assasin</td></tr>
+<tr><td>Atwood, Margaret</td><td>The Blind Assassin</td></tr>
 <tr><td>Atwood, Margaret</td><td>Cat's Eyes</td></tr>
 <tr><td>Atwood, Margaret</td><td>Conversations</td></tr>
 <tr><td>Atwood, Margaret</td><td>The Handmaid's Tale</td></tr>
@@ -98,7 +98,7 @@
 <tr><td>Bolger, Dermot</td><td>Father's Music: A Novel</td></tr>
 <tr><td>Bolger, Dermot</td><td>The Picador Book Of Contemporary Irish Fiction</td></tr>
 <tr><td>Bolger, Dermot</td><td>Temptation</td></tr>
-<tr><td>Bool, Heinrich</td><td>Children Are Civilians Too</td></tr>
+<tr><td>Boll, Heinrich</td><td>Children Are Civilians Too</td></tr>
 <tr><td>Boll, Heinrich</td><td>The Clown</td></tr>
 <tr><td>Bond, Edward</td><td>The Fool/We Come To The River</td></tr>
 <tr><td>Bond, Edward</td><td>Plays: Two (Lear/The Sea/Narrow Road To The Deep North/Black Mass/Passion)</td></tr>
@@ -161,7 +161,7 @@
 <tr><td>Butler, Samuel</td><td>The Way Of All Flesh</td></tr>
 <tr><td>Byatt, A.S.</td><td>The Matisse Stories</td></tr>
 <tr><td>Byatt, A.S.</td><td>Passions Of The Mind</td></tr>
-<tr><td>Byatt, A.S.</td><td>Possesion</td></tr>
+<tr><td>Byatt, A.S.</td><td>Possession</td></tr>
 <tr><td>Byron</td><td>Poems (without Don Juan)</td></tr>
 <tr><td>Calvino, Italo</td><td>Difficult Loves</td></tr>
 <tr><td>Calvino, Italo</td><td>If On A Winter's Night A Traveller</td></tr>
@@ -202,7 +202,7 @@
 <tr><td>Chatwin, Bruce</td><td>On The Black Hill</td></tr>
 <tr><td>Chatwin, Bruce</td><td>The Songlines</td></tr>
 <tr><td>Chatwin, Bruce</td><td>Utz</td></tr>
-<tr><td>Chatwin, Bruce</td><td>The Viceroy Of Ouudah</td></tr>
+<tr><td>Chatwin, Bruce</td><td>The Viceroy Of Ouidah</td></tr>
 <tr><td>Chatwin, Bruce</td><td>What Am I Doing Here</td></tr>
 <tr><td>Chaucer</td><td>Canterbury Tales</td></tr>
 <tr><td>Chaucer</td><td>Troilus and Cressida/Canterbury Tales</td></tr>
@@ -270,7 +270,7 @@
 <tr><td>Dickens, Charles</td><td>David Copperfield</td></tr>
 <tr><td>Dickens, Charles</td><td>Great Expectations</td></tr>
 <tr><td>Dickens, Charles</td><td>Hard Times</td></tr>
-<tr><td>Dickens, Charles</td><td>Martin Chuzzlewt</td></tr>
+<tr><td>Dickens, Charles</td><td>Martin Chuzzlewit</td></tr>
 <tr><td>Diderot, Denis</td><td>The Nun</td></tr>
 <tr><td>Dillard, Annie</td><td>Pilgrim At Tinker Creek</td></tr>
 <tr><td>Dolley, Christopher</td><td>The Penguin Book Of English Short Stories</td></tr>
@@ -318,7 +318,7 @@
 <tr><td>Enquist, Per Olov</td><td>The Visit Of The Royal Physician</td></tr>
 <tr><td>Enright, Anne</td><td>The Gathering</td></tr>
 <tr><td>Enright, D.J.</td><td>Selected Poems</td></tr>
-<tr><td>Enrigth, D.J.</td><td>Shapespeare And The Students</td></tr>
+<tr><td>Enrigth, D.J.</td><td>Shakespeare And The Students</td></tr>
 <tr><td>Estes, Clarissa Pinkola</td><td>Women Who Run With The Wolves</td></tr>
 <tr><td>Eugenides, Jeffery</td><td>Middlesex</td></tr>
 <tr><td>Euripidies</td><td>Alcestis/Hippolytus/Iphigenia In Tauris</td></tr>
@@ -344,7 +344,7 @@
 <tr><td>Forster, C.S.</td><td>Maurice</td></tr>
 <tr><td>Forster, E.M.</td><td>A Room With A View</td></tr>
 <tr><td>Forster, E.M.</td><td>Where Angels Fear To Tread</td></tr>
-<tr><td>Forster, Penny</td><td>Daugthers Of de Beauvoir</td></tr>
+<tr><td>Forster, Penny</td><td>Daughters Of de Beauvoir</td></tr>
 <tr><td>Foucault, Michel</td><td>Discipline And Punish</td></tr>
 <tr><td>Frank, Anne</td><td>The Diary Of Anne Frank</td></tr>
 <tr><td>Franklin, Miles</td><td>My Brilliant Career/My Career Goes Bung</td></tr>
@@ -352,8 +352,8 @@
 <tr><td>Franzen, Jonathan</td><td>Freedom</td></tr>
 <tr><td>Franzen, Jonathan</td><td>How To Be Alone</td></tr>
 <tr><td>Freud, Sigmund</td><td>Civilisation And Its Discontents</td></tr>
-<tr><td>Freil, Biran</td><td>Dancing At Lughnasa</td></tr>
-<tr><td>Friel, Brian</td><td>Plays One (Philadelphia, Here I Come!/The Freedom Of The City/Living Quarteters/Aristocrats/Faith Healer/Translations</td></tr>
+<tr><td>Friel, Brian</td><td>Dancing At Lughnasa</td></tr>
+<tr><td>Friel, Brian</td><td>Plays One (Philadelphia, Here I Come!/The Freedom Of The City/Living Quarters/Aristocrats/Faith Healer/Translations</td></tr>
 <tr><td>Frisch, Max</td><td>Andorra</td></tr>
 <tr><td>Frost, Robert</td><td>The Poetry Of Robert Frost</td></tr>
 <tr><td>Frost, Robert</td><td>Selected Poems</td></tr>
@@ -402,7 +402,7 @@
 <tr><td>Golding, William</td><td>The Brass Butterfly</td></tr>
 <tr><td>Golding, William</td><td>Close Quarters</td></tr>
 <tr><td>Golding, William</td><td>The Double Tongue</td></tr>
-<tr><td>Golding, Willian</td><td>The Inheritors</td></tr>
+<tr><td>Golding, William</td><td>The Inheritors</td></tr>
 <tr><td>Golding, William</td><td>The Lord Of The Flies</td></tr>
 <tr><td>Golding, William</td><td>A Moving Target</td></tr>
 <tr><td>Golding, William</td><td>The Paper Men</td></tr>
@@ -433,7 +433,7 @@
 <tr><td>Greene, Graham</td><td>The Power And The Glory</td></tr>
 <tr><td>Greene, Graham</td><td>The Quiet American</td></tr>
 <tr><td>Greene, Graham</td><td>Twenty-One Stories</td></tr>
-<tr><td>Grenville, Kate</td><td>The Secrert River</td></tr>
+<tr><td>Grenville, Kate</td><td>The Secret River</td></tr>
 <tr><td>Graves, Robert</td><td>Goodbye To All That</td></tr>
 <tr><td>Graves, Robert</td><td>Greek Myths</td></tr>
 <tr><td>Graves, Robert</td><td>Wife To Mr. Milton</td></tr>
@@ -477,7 +477,7 @@
 <tr><td>Heaney, Seamus</td><td>Sweeney Astray</td></tr>
 <tr><td>Heine, Heinrich</td><td>Heines Werke</td></tr>
 <tr><td>Heine, Heinrich</td><td>It Will Be A Lovely Day (Prose Selection)</td></tr>
-<tr><td>Heinlein, Robert A.</td><td>Gloy Road</td></tr>
+<tr><td>Heinlein, Robert A.</td><td>Glory Road</td></tr>
 <tr><td>Heinlein, Robert A.</td><td>Job: A Comedy Of Justice</td></tr>
 <tr><td>Heller, Joseph</td><td>Catch 22</td></tr>
 <tr><td>Heller, Joseph</td><td>Picture This</td></tr>
@@ -530,7 +530,7 @@
 <tr><td>Ibsen, Henrik</td><td>Hedda Gabler (adapt. John Osborne)</td></tr>
 <tr><td>Ibsen, Henrik</td><td>The Master Builder and Other Plays (Rosmerholm/Little Eyolf/John Gabriel Borkman)</td></tr>
 <tr><td>Ibsen, Henrik</td><td>Peer Gynt</td></tr>
-<tr><td>Ignatieff, Michael</td><td>The Worrior's Honor</td></tr>
+<tr><td>Ignatieff, Michael</td><td>The Warrior's Honor</td></tr>
 <tr><td>Ionesco, Eugene</td><td>Plays (The Man With The Luggage/The Duel/Double Act/Why Do I Write?)</td></tr>
 <tr><td>Ionesco, Eugene</td><td>Rhinoceros/The Chairs/The Lesson</td></tr>
 <tr><td>Ionesco, Eugene</td><td>Theatre I (French)</td></tr>
@@ -597,7 +597,7 @@
 <tr><td>Kusano, Shimpei</td><td>Asking Myself Answering Myself</td></tr>
 <tr><td>Lanchester, John</td><td>The Debt To Pleasure</td></tr>
 <tr><td>Lao Tzu</td><td>The Way Of Life (Trans. Witter Bynner)</td></tr>
-<tr><td>Lardner, Ring, Jr.</td><td>THe Ecstasy Of Owen Muir</td></tr>
+<tr><td>Lardner, Ring, Jr.</td><td>The Ecstasy Of Owen Muir</td></tr>
 <tr><td>Larkin, Philip</td><td>A Girl In Winter</td></tr>
 <tr><td>Larkin, Philip</td><td>The Less Deceived</td></tr>
 <tr><td>Larkin, Philip</td><td>The Whitsun Weddings</td></tr>
@@ -635,13 +635,13 @@
 <tr><td>Leavis, F.R.</td><td>The Common Pursuit</td></tr>
 <tr><td>Leavis, F.R.</td><td>D.H. Lawrence: Novelist</td></tr>
 <tr><td>Leavis, F.R.</td><td>Revaluation</td></tr>
-<tr><td>Leavitt, David</td><td>The Peguin Book Of Penguin Short Stories</td></tr>
+<tr><td>Leavitt, David</td><td>The Penguin Book Of Penguin Short Stories</td></tr>
 <tr><td>Lee, Andrea</td><td>Lost Hearts In Italy</td></tr>
 <tr><td>Lee, Harper</td><td>To Kill A Mockingbird</td></tr>
 <tr><td>Leskov, Nikolai</td><td>Selected Tales</td></tr>
 <tr><td>Lessing, Doris</td><td>Alfred & Emily</td></tr>
 <tr><td>Lessing, Doris</td><td>Ben, In The World</td></tr>
-<tr><td>Lessing, Doris</td><td>Breifing For A Descent Into Hell</td></tr>
+<tr><td>Lessing, Doris</td><td>Briefing For A Descent Into Hell</td></tr>
 <tr><td>Lessing, Doris</td><td>The Cleft</td></tr>
 <tr><td>Lessing, Doris</td><td>The Diaries Of Jane Somers</td></tr>
 <tr><td>Lessing, Doris</td><td>The Fifth Child</td></tr>
@@ -649,7 +649,7 @@
 <tr><td>Lessing, Doris</td><td>The Grass Is Singing</td></tr>
 <tr><td>Lessing, Doris</td><td>Going Home</td></tr>
 <tr><td>Lessing, Doris</td><td>The Golden Notebook</td></tr>
-<tr><td>Lessing, Doris</td><td>The Good Terroist</td></tr>
+<tr><td>Lessing, Doris</td><td>The Good Terrorist</td></tr>
 <tr><td>Lessing, Doris</td><td>Landlocked</td></tr>
 <tr><td>Lessing, Doris</td><td>Love, Again</td></tr>
 <tr><td>Lessing, Doris</td><td>A Man And Two Women</td></tr>
@@ -657,7 +657,7 @@
 <tr><td>Lessing, Doris</td><td>The Memoirs Of A Survivor</td></tr>
 <tr><td>Lessing, Doris</td><td>A Ripple From The Strom</td></tr>
 <tr><td>Lessing, Doris</td><td>The Story Of A Non-Marrying Man</td></tr>
-<tr><td>Lessing, Doris</td><td>The Summer Befor The Dark</td></tr>
+<tr><td>Lessing, Doris</td><td>The Summer Before The Dark</td></tr>
 <tr><td>Lessing, Doris</td><td>The Sweetest Dream</td></tr>
 <tr><td>Lessing, Doris</td><td>The Temptation Of Jack Orkney</td></tr>
 <tr><td>Lessing, Doris</td><td>Time Bits</td></tr>
@@ -669,7 +669,7 @@
 <tr><td>Lewis, C.S.</td><td>The Lion, The Witch And The Wardrobe</td></tr>
 <tr><td>Lewis, C.S.</td><td>Perlandra</td></tr>
 <tr><td>Lewis, C.S.</td><td>A Preface To Paradise Lost</td></tr>
-<tr><td>Lewycka, Mariana</td><td>A Short History Of Trackors In Ukrainian</td></tr>
+<tr><td>Lewycka, Mariana</td><td>A Short History Of Tractors In Ukrainian</td></tr>
 <tr><td>Lindsay, Norman</td><td>Age Of Consent</td></tr>
 <tr><td>Llewellyn-Jones, Derek</td><td>Everywoman</td></tr>
 <tr><td>Lo, Kuan-chung</td><td>Romance Of The Three Kingdoms Vol. 1</td></tr>
@@ -720,7 +720,7 @@
 <tr><td>Marias, Javier</td><td>A Heart So White</td></tr>
 <tr><td>Marlowe, Christopher</td><td>The Complete Plays</td></tr>
 <tr><td>Marquez, Gabriel Garcia</td><td>The Autumn Of The Patriarch</td></tr>
-<tr><td>Marquez, Garbrel Garcia</td><td>Chronicle Of A Death Fortold</td></tr>
+<tr><td>Marquez, Gabriel Garcia</td><td>Chronicle Of A Death Foretold</td></tr>
 <tr><td>Marquez, Gabriel Garcia</td><td>Living To Tell The Tale</td></tr>
 <tr><td>Marquez, Gabriel Garcia</td><td>Love In The Time Of Cholera</td></tr>
 <tr><td>Marquez, Gabriel Garcia</td><td>No One Writes To The Colonel</td></tr>
@@ -825,11 +825,11 @@
 <tr><td>Neruda, Pablo</td><td>Selected Poems: A Bilingual Edition</td></tr>
 <tr><td>Nichols, Grace</td><td>The Fat Black Woman's Poems</td></tr>
 <tr><td>Nichols, Peter</td><td>A Day In The Death Of Joe Egg</td></tr>
-<tr><td>Neitzsche, Friedrich</td><td>My Sister And I</td></tr>
+<tr><td>Nietzsche, Friedrich</td><td>My Sister And I</td></tr>
 <tr><td>Nietzsche, Friedrich</td><td>A Nietzsche Reader</td></tr>
 <tr><td>Nietzsche, Friedrich</td><td>Thus Spoke Zarathustra</td></tr>
 <tr><td>Nietzsche, Friedrich</td><td>Twilight Of The Idols/The Anti-Christ</td></tr>
-<tr><td>Nouwen, Henri J.M.</td><td>THe Genesee Diary: Report From A Trappitst Monastery</td></tr>
+<tr><td>Nouwen, Henri J.M.</td><td>The Genesee Diary: Report From A Trappitst Monastery</td></tr>
 <tr><td>O'Hagan, Andrew</td><td>Be Near Me</td></tr>
 <tr><td>O'Hagan, Andrew</td><td>The Life And Opinions Of Maf The Dog, And Of His Friend Marilyn Monroe</td></tr>
 <tr><td>O'Hara, Frank</td><td>The Collected Poems of</td></tr>
@@ -870,7 +870,7 @@
 <tr><td>Pinter, Harold</td><td>Betrayal</td></tr>
 <tr><td>Pinter, Harold</td><td>The Birthday Party</td></tr>
 <tr><td>Pinter, Harold</td><td>The Caretaker</td></tr>
-<tr><td>Pinter Harold</td><td>THe Homecoming</td></tr>
+<tr><td>Pinter Harold</td><td>The Homecoming</td></tr>
 <tr><td>Pinter, Harold</td><td>Landscape And Silence</td></tr>
 <tr><td>Pirandello, Luigi</td><td>Right You Are! (If You Think So)/All For The Best/Henry IV</td></tr>
 <tr><td>Pirandello, Luigi</td><td>Three Plays (Sei Personaggi In Cerca D'Autore/Enrico IV/La Giara) (Italian)</td></tr>
@@ -894,7 +894,7 @@
 <tr><td>Pritchett, V.S.</td><td>The Oxford Book Of Short Stories</td></tr>
 <tr><td>Prokosch, Frederic</td><td>America, My Wilderness</td></tr>
 <tr><td>Prokosch, Frederic</td><td>The Asiatics</td></tr>
-<tr><td>Proulx, E. Annie</td><td>Accordian Crimes</td></tr>
+<tr><td>Proulx, E. Annie</td><td>Accordion Crimes</td></tr>
 <tr><td>Proust, Marcel</td><td>By Way Of Sainte-Beuve</td></tr>
 <tr><td>Proust, Marcel</td><td>City of the Plains: Part II</td></tr>
 <tr><td>Proust, Marcel</td><td>Du Cote De Chez Swann (French)</td></tr>
@@ -936,7 +936,7 @@
 <tr><td>Roth, Philip</td><td>The Plot Against America</td></tr>
 <tr><td>Roth, Philip</td><td>Portnoy's Complaint</td></tr>
 <tr><td>Roy, Arundhati</td><td>The God Of Small Things</td></tr>
-<tr><td>Rouand, Jean</td><td>Fields Of Gloy</td></tr>
+<tr><td>Rouand, Jean</td><td>Fields Of Glory</td></tr>
 <tr><td>Rousseau, Jean-Jacques</td><td>Reveries Of A Solitary Walker</td></tr>
 <tr><td>Rousseau, Mary F.</td><td>The Apple Or Aristotle's Death</td></tr>
 <tr><td>Rubens, Bernice</td><td>Autobiopsy</td></tr>
@@ -1011,7 +1011,7 @@
 <tr><td>Shaw, Bernard</td><td>Saint Joan</td></tr>
 <tr><td>Shaw, Bernard</td><td>Sixteen Self Sketches</td></tr>
 <tr><td>Sherdian, R.B.</td><td>Plays</td></tr>
-<tr><td>Shepard, Sam</td><td>Crusing Paradise: Tales</td></tr>
+<tr><td>Shepard, Sam</td><td>Cruising Paradise: Tales</td></tr>
 <tr><td>Shepherd, Catherine</td><td>Daybreak</td></tr>
 <tr><td>Shields, Carol</td><td>The Box Garden</td></tr>
 <tr><td>Shields, Carol</td><td>Collected Stories</td></tr>
@@ -1036,7 +1036,7 @@
 <tr><td>Singer, Isaac Bachevis</td><td>The Magician Of Lublin</td></tr>
 <tr><td>Singer, Isaac Bachevis</td><td>The Manor</td></tr>
 <tr><td>Sitwell, Edith</td><td>British And American Poetry Volume I and II</td></tr>
-<tr><td>Skelton, John</td><td>The Complelt English Poems</td></tr>
+<tr><td>Skelton, John</td><td>The Complete English Poems</td></tr>
 <tr><td>Smith, Ali</td><td>The Accidental</td></tr>
 <tr><td>Smith, Ali</td><td>Hotel Ward</td></tr>
 <tr><td>Smith, Zadie</td><td>The Autograph Man</td></tr>
@@ -1152,7 +1152,7 @@
 <tr><td>Waugh, Evelyn</td><td>A Handful Of Dust</td></tr>
 <tr><td>Waugh, Evelyn</td><td>The Loved One</td></tr>
 <tr><td>Waugh, Evelyn</td><td>Waugh In Abyssinia</td></tr>
-<tr><td>Wells, H.G.</td><td>The History Of Mr. Polly/The Wounderful Visit</td></tr>
+<tr><td>Wells, H.G.</td><td>The History Of Mr. Polly/The Wonderful Visit</td></tr>
 <tr><td>Wells, H.G.</td><td>Kipps</td></tr>
 <tr><td>Wharton, Edith</td><td>The Age Of Innocence</td></tr>
 <tr><td>Wharton, Edith</td><td>The Fruit Of The Tree</td></tr>
@@ -1194,8 +1194,8 @@
 <tr><td>Woolf, Virgina</td><td>A Room Of One's Own</td></tr>
 <tr><td>Woolf, Virgina</td><td>Three Guineas</td></tr>
 <tr><td>Woolf, Virgina</td><td>To The Lighthouse</td></tr>
-<tr><td>Wordsworth, Wiliam</td><td>The Prelude</td></tr>
-<tr><td>Wordsworth, Wiliam</td><td>William Wordsworth</td></tr>
+<tr><td>Wordsworth, William</td><td>The Prelude</td></tr>
+<tr><td>Wordsworth, William</td><td>William Wordsworth</td></tr>
 <tr><td>Yang, Xainyi</td><td>Poetry And Prose Of The Han, Wei and Six Dynasties</td></tr>
 <tr><td>Yang, Xainyi</td><td>Poetry And Prose Of The Tang And Song</td></tr>
 <tr><td>Yeats, Richard</td><td>The Easter Parade</td></tr>

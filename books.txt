@@ -7,7 +7,7 @@ Aesop|Fables
 Ainsworth, W.H.|Windsor Castle
 Akhmatova, Anna|Poems Of
 Alain-Fournier|Le Grand Meaulnes
-Albee, Edward|Box and Quotaions From Chairman Mao Tse-Tung
+Albee, Edward|Box and Quotations From Chairman Mao Tse-Tung
 Albee, Edward|Who's Afraid of Virginia Woolf
 Aldington, Richard|All Men Are Enemies
 Ali, Ayaan Hirsi|Infidel
@@ -34,7 +34,7 @@ Ariosto, Ludovico|Orlando Furioso 2
 Aristophanes|The Wasps/The Poet And The Women/The Frogs
 Arnold, Matthew|Poetical Works
 Atwood, Margaret|Alias Grace
-Atwood, Margaret|The Blind Assasin
+Atwood, Margaret|The Blind Assassin
 Atwood, Margaret|Cat's Eyes
 Atwood, Margaret|Conversations
 Atwood, Margaret|The Handmaid's Tale
@@ -98,7 +98,7 @@ Boas, Frederick S.|Five Pre-Shakespearean Comedies
 Bolger, Dermot|Father's Music: A Novel
 Bolger, Dermot|The Picador Book Of Contemporary Irish Fiction
 Bolger, Dermot|Temptation
-Bool, Heinrich|Children Are Civilians Too
+Boll, Heinrich|Children Are Civilians Too
 Boll, Heinrich|The Clown
 Bond, Edward|The Fool/We Come To The River
 Bond, Edward|Plays: Two (Lear/The Sea/Narrow Road To The Deep North/Black Mass/Passion)
@@ -161,7 +161,7 @@ Burns, Robert|The Poems And Songs Of
 Butler, Samuel|The Way Of All Flesh
 Byatt, A.S.|The Matisse Stories
 Byatt, A.S.|Passions Of The Mind
-Byatt, A.S.|Possesion
+Byatt, A.S.|Possession
 Byron|Poems (without Don Juan)
 Calvino, Italo|Difficult Loves
 Calvino, Italo|If On A Winter's Night A Traveller
@@ -202,7 +202,7 @@ Chatwin, Bruce|In Patagonia
 Chatwin, Bruce|On The Black Hill
 Chatwin, Bruce|The Songlines
 Chatwin, Bruce|Utz
-Chatwin, Bruce|The Viceroy Of Ouudah
+Chatwin, Bruce|The Viceroy Of Ouidah
 Chatwin, Bruce|What Am I Doing Here
 Chaucer|Canterbury Tales
 Chaucer|Troilus and Cressida/Canterbury Tales
@@ -270,7 +270,7 @@ Dickens, Charles|Bleak House
 Dickens, Charles|David Copperfield
 Dickens, Charles|Great Expectations
 Dickens, Charles|Hard Times
-Dickens, Charles|Martin Chuzzlewt
+Dickens, Charles|Martin Chuzzlewit
 Diderot, Denis|The Nun
 Dillard, Annie|Pilgrim At Tinker Creek
 Dolley, Christopher|The Penguin Book Of English Short Stories
@@ -318,7 +318,7 @@ Enchi, Fumiko|Masks
 Enquist, Per Olov|The Visit Of The Royal Physician
 Enright, Anne|The Gathering
 Enright, D.J.|Selected Poems
-Enrigth, D.J.|Shapespeare And The Students
+Enrigth, D.J.|Shakespeare And The Students
 Estes, Clarissa Pinkola|Women Who Run With The Wolves
 Eugenides, Jeffery|Middlesex
 Euripidies|Alcestis/Hippolytus/Iphigenia In Tauris
@@ -344,7 +344,7 @@ Forster, C.S.|The Gun
 Forster, C.S.|Maurice
 Forster, E.M.|A Room With A View
 Forster, E.M.|Where Angels Fear To Tread
-Forster, Penny|Daugthers Of de Beauvoir
+Forster, Penny|Daughters Of de Beauvoir
 Foucault, Michel|Discipline And Punish
 Frank, Anne|The Diary Of Anne Frank
 Franklin, Miles|My Brilliant Career/My Career Goes Bung
@@ -352,8 +352,8 @@ Franzen, Jonathan|The Corrections
 Franzen, Jonathan|Freedom
 Franzen, Jonathan|How To Be Alone
 Freud, Sigmund|Civilisation And Its Discontents
-Freil, Biran|Dancing At Lughnasa
-Friel, Brian|Plays One (Philadelphia, Here I Come!/The Freedom Of The City/Living Quarteters/Aristocrats/Faith Healer/Translations
+Friel, Brian|Dancing At Lughnasa
+Friel, Brian|Plays One (Philadelphia, Here I Come!/The Freedom Of The City/Living Quarters/Aristocrats/Faith Healer/Translations
 Frisch, Max|Andorra
 Frost, Robert|The Poetry Of Robert Frost
 Frost, Robert|Selected Poems
@@ -402,7 +402,7 @@ Golden, Arthur|Memoirs Of A Geisha
 Golding, William|The Brass Butterfly
 Golding, William|Close Quarters
 Golding, William|The Double Tongue
-Golding, Willian|The Inheritors
+Golding, William|The Inheritors
 Golding, William|The Lord Of The Flies
 Golding, William|A Moving Target
 Golding, William|The Paper Men
@@ -433,7 +433,7 @@ Greene, Graham|The Other Man (Allain, Marie Francoise)
 Greene, Graham|The Power And The Glory
 Greene, Graham|The Quiet American
 Greene, Graham|Twenty-One Stories
-Grenville, Kate|The Secrert River
+Grenville, Kate|The Secret River
 Graves, Robert|Goodbye To All That
 Graves, Robert|Greek Myths
 Graves, Robert|Wife To Mr. Milton
@@ -477,7 +477,7 @@ Heaney, Seamus|The Spirit Level
 Heaney, Seamus|Sweeney Astray
 Heine, Heinrich|Heines Werke
 Heine, Heinrich|It Will Be A Lovely Day (Prose Selection)
-Heinlein, Robert A. |Gloy Road
+Heinlein, Robert A. |Glory Road
 Heinlein, Robert A.|Job: A Comedy Of Justice
 Heller, Joseph|Catch 22
 Heller, Joseph|Picture This
@@ -530,7 +530,7 @@ Ibsen, Henrik|Ghosts and Other Plays (A Public Enemy/When We Dead Wake)
 Ibsen, Henrik|Hedda Gabler (adapt. John Osborne)
 Ibsen, Henrik|The Master Builder and Other Plays (Rosmerholm/Little Eyolf/John Gabriel Borkman)
 Ibsen, Henrik|Peer Gynt
-Ignatieff, Michael|The Worrior's Honor
+Ignatieff, Michael|The Warrior's Honor
 Ionesco, Eugene|Plays (The Man With The Luggage/The Duel/Double Act/Why Do I Write?)
 Ionesco, Eugene|Rhinoceros/The Chairs/The Lesson
 Ionesco, Eugene|Theatre I (French)
@@ -597,7 +597,7 @@ Kurkov, Andrey|The President's Last Love
 Kusano, Shimpei|Asking Myself Answering Myself
 Lanchester, John|The Debt To Pleasure
 Lao Tzu|The Way Of Life (Trans. Witter Bynner)
-Lardner, Ring, Jr.|THe Ecstasy Of Owen Muir
+Lardner, Ring, Jr.|The Ecstasy Of Owen Muir
 Larkin, Philip|A Girl In Winter
 Larkin, Philip|The Less Deceived
 Larkin, Philip|The Whitsun Weddings
@@ -635,13 +635,13 @@ Le, Nam|The Boat
 Leavis, F.R.|The Common Pursuit
 Leavis, F.R.|D.H. Lawrence: Novelist
 Leavis, F.R.|Revaluation
-Leavitt, David|The Peguin Book Of Penguin Short Stories
+Leavitt, David|The Penguin Book Of Penguin Short Stories
 Lee, Andrea|Lost Hearts In Italy
 Lee, Harper|To Kill A Mockingbird
 Leskov, Nikolai|Selected Tales
 Lessing, Doris|Alfred & Emily
 Lessing, Doris|Ben, In The World
-Lessing, Doris|Breifing For A Descent Into Hell
+Lessing, Doris|Briefing For A Descent Into Hell
 Lessing, Doris|The Cleft
 Lessing, Doris|The Diaries Of Jane Somers
 Lessing, Doris|The Fifth Child
@@ -649,7 +649,7 @@ Lessing, Doris|The Four-Gated City
 Lessing, Doris|The Grass Is Singing
 Lessing, Doris|Going Home
 Lessing, Doris|The Golden Notebook
-Lessing, Doris|The Good Terroist
+Lessing, Doris|The Good Terrorist
 Lessing, Doris|Landlocked
 Lessing, Doris|Love, Again
 Lessing, Doris|A Man And Two Women
@@ -657,7 +657,7 @@ Lessing, Doris|Martha Quest
 Lessing, Doris|The Memoirs Of A Survivor
 Lessing, Doris|A Ripple From The Strom
 Lessing, Doris|The Story Of A Non-Marrying Man
-Lessing, Doris|The Summer Befor The Dark
+Lessing, Doris|The Summer Before The Dark
 Lessing, Doris|The Sweetest Dream
 Lessing, Doris|The Temptation Of Jack Orkney
 Lessing, Doris|Time Bits
@@ -669,7 +669,7 @@ Lewis, C.S.|A Grief Observed
 Lewis, C.S.|The Lion, The Witch And The Wardrobe
 Lewis, C.S.|Perlandra
 Lewis, C.S.|A Preface To Paradise Lost
-Lewycka, Mariana|A Short History Of Trackors In Ukrainian
+Lewycka, Mariana|A Short History Of Tractors In Ukrainian
 Lindsay, Norman|Age Of Consent
 Llewellyn-Jones, Derek|Everywoman
 Lo, Kuan-chung|Romance Of The Three Kingdoms Vol. 1
@@ -720,7 +720,7 @@ Mao Tun|Spring Silkworms
 Marias, Javier|A Heart So White
 Marlowe, Christopher|The Complete Plays
 Marquez, Gabriel Garcia|The Autumn Of The Patriarch
-Marquez, Garbrel Garcia|Chronicle Of A Death Fortold
+Marquez, Gabriel Garcia|Chronicle Of A Death Foretold
 Marquez, Gabriel Garcia|Living To Tell The Tale
 Marquez, Gabriel Garcia|Love In The Time Of Cholera
 Marquez, Gabriel Garcia|No One Writes To The Colonel
@@ -825,11 +825,11 @@ Nemirovsky, Irene|Suite Fancaise
 Neruda, Pablo|Selected Poems: A Bilingual Edition
 Nichols, Grace|The Fat Black Woman's Poems
 Nichols, Peter|A Day In The Death Of Joe Egg
-Neitzsche, Friedrich|My Sister And I
+Nietzsche, Friedrich|My Sister And I
 Nietzsche, Friedrich|A Nietzsche Reader
 Nietzsche, Friedrich|Thus Spoke Zarathustra
 Nietzsche, Friedrich|Twilight Of The Idols/The Anti-Christ
-Nouwen, Henri J.M.|THe Genesee Diary: Report From A Trappitst Monastery
+Nouwen, Henri J.M.|The Genesee Diary: Report From A Trappitst Monastery
 O'Hagan, Andrew|Be Near Me
 O'Hagan, Andrew|The Life And Opinions Of Maf The Dog, And Of His Friend Marilyn Monroe
 O'Hara, Frank|The Collected Poems of
@@ -870,7 +870,7 @@ Pinero, Arthur Wing|Three Plays (The Magistrate/The Second Mrs. Tanqueray/Trelaw
 Pinter, Harold|Betrayal
 Pinter, Harold|The Birthday Party
 Pinter, Harold|The Caretaker
-Pinter Harold|THe Homecoming
+Pinter Harold|The Homecoming
 Pinter, Harold|Landscape And Silence
 Pirandello, Luigi|Right You Are! (If You Think So)/All For The Best/Henry IV
 Pirandello, Luigi|Three Plays (Sei Personaggi In Cerca D'Autore/Enrico IV/La Giara) (Italian)
@@ -894,7 +894,7 @@ Prassinos, Gisele|The Traveller
 Pritchett, V.S.|The Oxford Book Of Short Stories
 Prokosch, Frederic|America, My Wilderness
 Prokosch, Frederic|The Asiatics
-Proulx, E. Annie|Accordian Crimes
+Proulx, E. Annie|Accordion Crimes
 Proust, Marcel|By Way Of Sainte-Beuve
 Proust, Marcel|City of the Plains: Part II
 Proust, Marcel|Du Cote De Chez Swann (French)
@@ -936,7 +936,7 @@ Roth, Philip|Letting Go
 Roth, Philip|The Plot Against America
 Roth, Philip|Portnoy's Complaint
 Roy, Arundhati|The God Of Small Things
-Rouand, Jean|Fields Of Gloy
+Rouand, Jean|Fields Of Glory
 Rousseau, Jean-Jacques|Reveries Of A Solitary Walker
 Rousseau, Mary F.|The Apple Or Aristotle's Death
 Rubens, Bernice|Autobiopsy
@@ -1011,7 +1011,7 @@ Shaw, Bernard|Pygmalion
 Shaw, Bernard|Saint Joan
 Shaw, Bernard|Sixteen Self Sketches
 Sherdian, R.B.|Plays
-Shepard, Sam|Crusing Paradise: Tales
+Shepard, Sam|Cruising Paradise: Tales
 Shepherd, Catherine|Daybreak
 Shields, Carol|The Box Garden
 Shields, Carol|Collected Stories
@@ -1036,7 +1036,7 @@ Singer, Isaac Bachevis|The Family Moskat
 Singer, Isaac Bachevis|The Magician Of Lublin
 Singer, Isaac Bachevis|The Manor
 Sitwell, Edith|British And American Poetry Volume I and II
-Skelton, John|The Complelt English Poems
+Skelton, John|The Complete English Poems
 Smith, Ali|The Accidental
 Smith, Ali|Hotel Ward
 Smith, Zadie|The Autograph Man
@@ -1152,7 +1152,7 @@ Watson, Don|Weasel Words
 Waugh, Evelyn|A Handful Of Dust
 Waugh, Evelyn|The Loved One
 Waugh, Evelyn|Waugh In Abyssinia
-Wells, H.G.|The History Of Mr. Polly/The Wounderful Visit
+Wells, H.G.|The History Of Mr. Polly/The Wonderful Visit
 Wells, H.G.|Kipps
 Wharton, Edith|The Age Of Innocence
 Wharton, Edith|The Fruit Of The Tree
@@ -1194,8 +1194,8 @@ Woolf, Virgina|Orlando
 Woolf, Virgina|A Room Of One's Own
 Woolf, Virgina|Three Guineas
 Woolf, Virgina|To The Lighthouse
-Wordsworth, Wiliam|The Prelude
-Wordsworth, Wiliam|William Wordsworth
+Wordsworth, William|The Prelude
+Wordsworth, William|William Wordsworth
 Yang, Xainyi|Poetry And Prose Of The Han, Wei and Six Dynasties
 Yang, Xainyi|Poetry And Prose Of The Tang And Song
 Yeats, Richard|The Easter Parade
