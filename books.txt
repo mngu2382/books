@@ -287,8 +287,8 @@ Dragoman, Gyorgy|The White King
 Dreiser, Theodore|Twelve Men
 Dumas, Alexandre|The Count Of Montecristo
 Dumas, Alexandre|The Man In The Iron Mask
-Duras, Maguerite|Summer Rain
-Duras, Maguerite|Whole Days In The Trees
+Duras, Marguerite|Summer Rain
+Duras, Marguerite|Whole Days In The Trees
 Echenoz, Jean|I'm Off
 Eco, Umberto|Baudolino
 Eco, Umberto|Foucault's Pendulum
