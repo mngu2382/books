@@ -54,7 +54,7 @@
 <tr><td>Balzac, Honore de</td><td>The Chouans</td></tr>
 <tr><td>Balzac, Honore de</td><td>Cousin Pons</td></tr>
 <tr><td>Balzac, Honore de</td><td>Droll Stories</td></tr>
-<tr><td>Balzac, Honore de</td><td>Eugene Grandet</td></tr>
+<tr><td>Balzac, Honore de</td><td>Eugenie Grandet</td></tr>
 <tr><td>Balzac, Honore de</td><td>Old Goriot</td></tr>
 <tr><td>Banville, John</td><td>The Sea</td></tr>
 <tr><td>Barker, George</td><td>The True Confession Of George Barker</td></tr>
