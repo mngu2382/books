@@ -23,7 +23,7 @@ layout: default
         {% if page.notes contains book_id  %}
           {% for post in site.posts %}
             {% if post.book_id == book_id %}
-              <a href="{{ post.url  }}">{{ row[1] }}</a>
+              <a href="{{ site.baseurl }}{{ post.url  }}">{{ row[1] }}</a>
             {% endif %}
           {% endfor %}
         {% else %}
