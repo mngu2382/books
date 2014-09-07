@@ -1,5 +1,5 @@
 @import url("http://fonts.googleapis.com/css?family=Droid+Serif:regular,bold,italic|Inconsolata:regular,bold,italic");
-@import url("pygment.css");
+@import url("site-specific.css");
 
 body {
   color: #000;
@@ -159,23 +159,3 @@ table {
       border: 1px solid #ddd;
       padding: 3px 5px;
     }
-
-/* Site specific */
-#booksearch {
-  -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
-  font-family: "Droid Serif",Verdana,Geneva,serif;
-  font-size: 11pt;
-  width: 100%;
-}
-
-#booktable {
-  width: 100%;
-}
-
-.frontcover {
-  margin-left: 1em;
-  margin-bottom: 1em;
-  max-width: 40%;
-}
