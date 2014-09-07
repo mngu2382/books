@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<input id="booksearch" placeholder="Type to search" type="text" autocomplete=off autofocus>
+
+<p></p>
+
+<table id="booktable">
+  <colgroup>
+    <col style="width: 30%;" span="1">
+    <col style="width: 70%;" span="1">
+  </colgroup>
+  <thead>
+    <tr><th>Author</th><th>Title</th></tr>
+  </thead>
+  <tbody>
+    {% for row in page.books %}
+    {% assign book_id = row[0]| append: row[1] %}
+    <tr>
+      <td>{{ row[0] }}</td>
+      <td>
+        {% if page.notes contains book_id  %}
+          {% for post in site.posts %}
+            {% if post.book_id == book_id %}
+              <a href="{{ post.url  }}">{{ row[1] }}</a>
+            {% endif %}
+          {% endfor %}
+        {% else %}
+          {{ row[1] }}
+        {% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript">
+    var $rows = $('#booktable tbody tr');
+    $('#booksearch').keyup(function() {
+        var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();    
+        $rows.show().filter(function() {
+            var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
+            return !~text.indexOf(val);
+        }).hide();
+    });
+</script>

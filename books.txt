@@ -920,6 +920,7 @@ Remarque, Erich Maria|All Quiet On The Western Front
 Reshetovskaya, Natalya|Sanya
 Rhys, Jean|Carole Angier
 Rhys, Jean|Smile Please
+Rhys, Jean|Wide Sargasso Sea
 Ricks, Christopher|T.S. Eliot And Prejudice
 Ritchie,J.M.|Seven Expressionist Plays
 Roberts, Morley|The Grinder's Wheel
@@ -1208,17 +1209,15 @@ Yu, Charles|Third Class Superhero
 Zafon, Carlos Ruiz|The Shadow Of The Wind
 Zola, Emile|Germinal
 Zusak, Markus|The Book Thief
-
-Miscellaneous
-Bhagavad Gita (English,German)
-I Ching (Trans. John Blofeld)
-The Kama Sutra Of Vatsyayana
-The Koran
-Noble Prize Library: Faulkner/O'Neill/Steinbeck
-Pearl/Cleanness/Patience/Sir Gawain And The Green Knight
-The Sagas Of The Icelanders
-Short Stories From The New Yorker
-Sir Gawain And The Green Knight
-Tao Te Ching
-Tao Te Ching (Trans. Chu Ta-Kao)
-The Yellow Emperor's Classic Of Medicine
+|Bhagavad Gita (English,German)
+|I Ching (Trans. John Blofeld)
+|The Kama Sutra Of Vatsyayana
+|The Koran
+|Noble Prize Library: Faulkner/O'Neill/Steinbeck
+|Pearl/Cleanness/Patience/Sir Gawain And The Green Knight
+|The Sagas Of The Icelanders
+|Short Stories From The New Yorker
+|Sir Gawain And The Green Knight
+|Tao Te Ching
+|Tao Te Ching (Trans. Chu Ta-Kao)
+|The Yellow Emperor's Classic Of Medicine
