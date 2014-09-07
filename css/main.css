@@ -92,7 +92,9 @@ section, aside {
 	      color: #fff;
             }
 
-    section {}
+    section {
+      overflow: hidden;
+    }
     
     aside {}
     
