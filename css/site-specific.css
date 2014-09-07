@@ -1,0 +1,19 @@
+/* Site specific */
+#booksearch {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: "Droid Serif",Verdana,Geneva,serif;
+  font-size: 11pt;
+  width: 100%;
+}
+
+#booktable {
+  width: 100%;
+}
+
+.frontcover {
+  margin-left: 1em;
+  margin-bottom: 1em;
+  max-width: 40%;
+}
