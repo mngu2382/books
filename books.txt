@@ -13,7 +13,7 @@ Aldington, Richard|All Men Are Enemies
 Ali, Ayaan Hirsi|Infidel
 Allende, Isabel|Daughter Of Fortune
 Allende, Isabel|Portrait In Sepia
-Allsop,F.J.|9 Poets
+Allsop, F.J.|9 Poets
 Amado, Jorge|Shepherds Of The Night
 Amis, Kingsley|The Biographer's Moustache
 Amis, Kingsley|My Enemy's Enemy
@@ -429,6 +429,7 @@ Greene, Graham|Carving A Statue
 Greene, Graham|The Comedians
 Greene, Graham|The End Of The Affair
 Greene, Graham|The Human Factor
+Greene, Graham|The Lost Childhood And Other Essays
 Greene, Graham|The Other Man (Allain, Marie Francoise)
 Greene, Graham|The Power And The Glory
 Greene, Graham|The Quiet American
@@ -442,10 +443,12 @@ Haddon, Mark|The Curious Incident Of The Dog In The Night Time
 Haddon, Mark|A Spot Of Bother
 Hagiwara Sakutaro|Face At The Bottom Of The World
 Halpern, Daniel|Selected Poems
+Hamalian, Leo|Great Stories By Nobel Prize Winners
 Hamsun, Knut|Hunger
 Hamsun, Knut|Pan
 Hampden, John|The Beggar's Opera and Other Eighteenth Century Plays
 Hartnett, Sonya|The Ghost's Child
+Hartnett, Sonya|Surrender
 Hardy, Thomas|Desperate Remedies
 Hardy, Thomas|Far From The Madding Crowd
 Hardy, Thomas|Jude The Obscure
@@ -505,6 +508,7 @@ Hobb, Robin|Forest Mage
 Hobb, Robin|Shaman's Crossing
 Hoeg, Peter|The History Of Danish Dreams
 Hoeg, Peter|Miss Smilia's Felling For Snow
+Hoff, Benjamin|The Tao Of Pooh
 Hofmann, Gert|Luck
 Hogan, Edward|Blackmoor
 Holderlin Friedrich|Hyperion
@@ -551,6 +555,7 @@ Johnson, Ben|Volpone
 Johnson, Samuel|Lives Of The English Poets: A Selection
 Johnston, Charles|Poems And Journeys
 Johnston, Charles|Talk About The Last Poet
+Jose, Nicholas|The Custodians
 Joyce, James|Dubliners
 Joyce, James|Finnegans Wake
 Joyce, James|A Portrait Of The Artist As A Young Man
@@ -574,6 +579,7 @@ Kellerher, Victor|Master Of The Grove
 Kempis, Thomas a|The Imitation Of Christ
 Kenna, Peter|The Slaughter On St. Teresa's Day
 Kenyon, F.W.|Legacy Of Hate
+Kerouac, Jack|The Dharma Bums
 Kerouac, Jack|On The Road
 Kierkegaard, Soren|Fear And Trembling/Repetition
 Kipling, Rudyard|The Complete Verse
@@ -909,6 +915,7 @@ Racine, Jean|Theatre Complet de (French)
 Radhakrishnan|An Idealist View Of Life
 Raglan|Jocasta's Crime
 Ramacharaka|Science Of Breath
+Rand, Ayn|Anthem
 Rand, Ayn|Atlas Shrugged
 Rand, Ayn|The Fountainhead
 Rand, Ayn|Journals Of
@@ -925,6 +932,7 @@ Ricks, Christopher|T.S. Eliot And Prejudice
 Ritchie,J.M.|Seven Expressionist Plays
 Roberts, Morley|The Grinder's Wheel
 Rolland, Romain|Meister Breugnon (German)
+Rosales, Emili|The Invisible City
 Roth, Henry|Mercy Of A Rude Stream Volume I: A Star Shines Over Mt. Morris Park
 Roth, Henry|Mercy Of A Rude Stream Volume III: From Bondage
 Roth, Philip|The Anatomy Lesson
@@ -1026,6 +1034,7 @@ Shimazaki, Toson|The Broken Commandment
 Sholokhov, Mikhail|The Don Flows Home To The Sea
 Shriver, Lionel|Double Fault
 Shriver, Lionel|The Post-Birthday World
+Shriver, Lionel|So Much For That
 Shriver, Lionel|We Need To Talk About Kevin
 Simenon, Georges|The Iron Staircase
 Simenon, Georges|Maigret's Special Murder/The Train
@@ -1111,7 +1120,7 @@ Temple, Peter|The Broken Shore
 Temple, Peter|Shooting Star
 Temple, Peter|Truth
 Tennyson, Alfred Lord|Selected Poems
-St. Teresa|The Life Of Saint Teresa
+Teresa, Saint|The Life Of Saint Teresa
 Thackeray, William|Vanity Fair
 Thomas, Dylan|Collected Poems 1934-1952
 Thomas, Dylan|The Poems
@@ -1185,6 +1194,7 @@ Winton, Tim|Dirt Music
 Winton, Tim|The Riders
 Winton, Tim|That Eye, The Sky
 Winton, Tim|The Turning
+Witcomb, Nan|The Thoughts Of Nanushka
 Wodehouse, P.G.|Spring Fever
 Wodehouse, P.G.|Uneasy Money
 Wodehouse, P.G.|Young Men In Spats
@@ -1211,6 +1221,7 @@ Zola, Emile|Germinal
 Zusak, Markus|The Book Thief
 |Bhagavad Gita (English,German)
 |I Ching (Trans. John Blofeld)
+|I Ching (Trans. Richard Wilhelm)
 |The Kama Sutra Of Vatsyayana
 |The Koran
 |Noble Prize Library: Faulkner/O'Neill/Steinbeck
