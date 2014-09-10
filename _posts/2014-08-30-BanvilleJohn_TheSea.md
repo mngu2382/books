@@ -12,13 +12,16 @@ Ornate language. The quote by Martin Amis of the cover resonates:
 
 > He is a master, and his prose gives continuous sensual delight
 
-With a intriguing twist at the end (cf. Atonement, Ian McEwan), giving
-the readers something to talk about I guess. I didn't find it
-necessary, almost gratuitous.
+At times though, instead of being involved and delighted by the
+writing, I find myself dis-involved and thinking "I see what you're
+trying to do here", experiences I had before (Seek My Face, John
+Updike and Be Near Me, Andrew O'Hagan) and a distraction from any
+enjoyment.
 
-Protagonist, Max Morden, recently lost his wife. They're old. Still in
-mourning, and probably in an attempt to distract himself, he revisits
-another traumatic event, something that happend in his youth.
+With a intriguing twist right at the end (cf. Atonement, Ian McEwan),
+giving the readers something to talk about I guess. I didn't find it
+necessary, rather almost gratuitous.
 
-Fey twins; one dumb, the other a tomboy. They share a strong psychic
-link, often understanding each other without needing words.
+Protagonist, Max Morden, recently lost his wife. Still in mourning,
+and probably in an attempt to distract himself, he revisits another
+traumatic event, something that happened one summer in his youth.

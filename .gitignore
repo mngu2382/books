@@ -1,4 +1,7 @@
+# Jekyll output directory
 _site
 
+# temporary files
 *.swp
 *~
+\#*\#
