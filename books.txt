@@ -238,7 +238,7 @@ Collier, John|Defy The Foul Fiend
 Commins, Saxe|Man And Spirit: The Speculative Philosophers
 Conrad, Joseph|Heart Of Darkness
 Conrad, Joseph|Lord Jim
-Conrad, Joseph|The Nigger Of The 'Narcissus'
+Conrad, Joseph|The Nigger Of The 'Narcissus'/Typhoon/And Other Stories
 Conrad, Joseph|Nostromo
 Conrad, Joseph|The Secret Agent
 Conrad, Joseph|Typhoon And Youth
@@ -890,6 +890,7 @@ Pirsig, Robert M.|Zen And The Art Of Motorcycle Maintenance
 Plath, Sylvia|Letters Home
 Plato|Five Dialogues (Ion/Symposium/The Meno/Phaedo/Phaedrus)
 Plato|The Republic
+Plato|The Portable Plato
 Plato|Timaeus And Critias
 Plato|The Trial And Death Of Socrates (The Euthyphron/Apology/Crito/Phaedo)
 Plenzdorf, Ulrich|Die Neuen Leiden Des Jungen W. (German)
@@ -940,6 +941,7 @@ Rolland, Romain|Meister Breugnon (German)
 Rosales, Emili|The Invisible City
 Roth, Henry|Mercy Of A Rude Stream Volume I: A Star Shines Over Mt. Morris Park
 Roth, Henry|Mercy Of A Rude Stream Volume III: From Bondage
+Roth, Henry|Mercy Of A Rude Stream Volume IV: Requiem For Harlem
 Roth, Philip|The Anatomy Lesson
 Roth, Philip|Deception
 Roth, Philip|Everyman
