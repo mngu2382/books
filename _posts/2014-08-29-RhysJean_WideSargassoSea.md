@@ -13,8 +13,8 @@ Jane Eyre.
 
 Interesting exploration of race, post-colonialism and feminism.
 
-Hereditary madness (cf. Strange Interlude, Eugene O'Neil): cannot but
-feel incredulous.
+Hereditary madness (cf. _Strange Interlude_, Eugene O'Neil): cannot
+but feel incredulous.
 
 This Penguin edition contains a lot of unimpressive "value-add"
 material, probably because the text itself is so slight. (TODO:

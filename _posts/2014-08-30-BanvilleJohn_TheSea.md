@@ -14,11 +14,11 @@ Ornate language. The quote by Martin Amis of the cover resonates:
 
 At times though, instead of being involved and delighted by the
 writing, I find myself dis-involved and thinking "I see what you're
-trying to do here", experiences I had before (Seek My Face, John
-Updike and Be Near Me, Andrew O'Hagan) and a distraction from any
+trying to do here", experiences I had before (_Seek My Face_, John
+Updike and _Be Near Me_, Andrew O'Hagan) and a distraction from any
 enjoyment.
 
-With a intriguing twist right at the end (cf. Atonement, Ian McEwan),
+With a intriguing twist right at the end (cf. _Atonement_, Ian McEwan),
 giving the readers something to talk about I guess. I didn't find it
 necessary, rather almost gratuitous.
 
