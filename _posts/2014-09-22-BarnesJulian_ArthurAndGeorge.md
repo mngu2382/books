@@ -13,8 +13,8 @@ Great story, simply and compellingly told.
 Base on the case of
 [George Edalji](https://en.wikipedia.org/wiki/George_Edalji) and
 Arthur Conan Doyle's involvement. Certainly, the book became much more
-interesting upon the realization that Arthur, was the A.C. Doyle and
-that the unfolding drama is based on true events.
+interesting upon the realization that Arthur was the A.C. Doyle and
+the unfolding drama based on true events.
 
 __Aside:__ The book reproduces an anecdote recorded by Doyle, told by
 Wilde at a dinner party they both attended:
