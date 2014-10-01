@@ -42,7 +42,7 @@ preceeded by another gem:
 > of humour, and a trick of small gestures to illustrate his meaning,
 > which were peculiar to himself. The effect cannot be reporduced, but
 > in dicussing the wars of the future he said: 'A chemist from each
-> side will approach the frontier with a bottle' -- his upraise hand
-> and face conjuring a vivid and grotesque picture.
+> side will approach the frontier with a bottle' -- his upraised hand
+> and precise face conjuring up a vivid and grotesque picture.
 
 [^1]: [Sir Arthur Conan Doyle, Memories and Adventures: an Autobiography](http://books.google.com.au/books?id=pvE6R9IvsXUC&pg=PA66&lpg=PA66#v=onepage&q&f=false)
