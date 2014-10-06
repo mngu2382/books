@@ -45,4 +45,4 @@ preceeded by another gem:
 > side will approach the frontier with a bottle' -- his upraised hand
 > and precise face conjuring up a vivid and grotesque picture.
 
-[^1]: [Sir Arthur Conan Doyle, Memories and Adventures: an Autobiography](http://books.google.com.au/books?id=pvE6R9IvsXUC&pg=PA66&lpg=PA66#v=onepage&q&f=false)
+[^1]: [Sir Arthur Conan Doyle, Memories and Adventures: an Autobiography (p.66)](http://books.google.com.au/books?id=pvE6R9IvsXUC&pg=PA66&lpg=PA66#v=onepage&q&f=false)
