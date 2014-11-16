@@ -1,4 +1,5 @@
 Acton, Harold|Four Cautionary Tales
+Adams, Douglas|The Hitchhicker's Guide To The Galaxy
 Adiga, Aravind|The White Tiger
 Advani, Rukun|Beethoven Among The Cows
 Aeschylus|The Oresteian Trilogy
@@ -33,6 +34,16 @@ Arden, John|Serjeant Musgrave's Dance
 Ariosto, Ludovico|Orlando Furioso 2
 Aristophanes|The Wasps/The Poet And The Women/The Frogs
 Arnold, Matthew|Poetical Works
+Asimov, Isaac|Anazel
+Asimov, Isaac|The Early Asimov Volume 1
+Asimov, Isaac|The Early Asimov Volume 3
+Asimov, Isaac|Fantastic Voyage
+Asimov, Isaac|Foundation And Empire
+Asimov, Isacc|The Great SF Stories: 17
+Asimov, Isaac|The Naked Sun
+Asimov, Isaac|Nemesis
+Asimov, Isaac|Second Foundation
+Asimov, Isaac|The Stars Like Dust
 Atwood, Margaret|Alias Grace
 Atwood, Margaret|The Blind Assassin
 Atwood, Margaret|Cat's Eyes
@@ -42,6 +53,7 @@ Atwood, Margaret|Lady Oracle
 Atwood, Margaret|Life Before Man
 Atwood, Margaret|The Robber Bride
 Augustine, Saint|Confessions
+Aung San Suu Kyi|The Voice Of Hope
 Austen, Jane|Emma
 Austen, Jane|Mansfield Park
 Austen, Jane|Northanger Abbey
@@ -81,7 +93,7 @@ Beauvoir, Simone de|Force Of Circumstance
 Beauvoir, Simone de|The Mandarins
 Beauvoir, Simone de|Memoirs Of A Dutiful Daughter
 Beauvoir, Simone de|The Second Sex
-Beauvoir, Simone de|She Came to Stay
+Beauvoir, Simone de|She Came To Stay
 Beckett, Samuel|All That Fall
 Beckett, Samuel|Krapp's Last Tape and Embers
 Bell, Martin|Complete Poems
@@ -108,6 +120,14 @@ Borges, Jorge Luis|The Book Of Imaginary Beings
 Borges, Jorge Luis|Dreamtigers
 Borges, Jorge Luis|Labyrinths
 Borges, Jorge Luis|Selected Poems 1923-1967
+Borroughs, Edgar Rice|Back To The Stone Age
+Borroughs, Edgar Rice|Jungle Tales Of Tarzan
+Borroughs, Edgar Rice|Land Of Terror
+Borroughs, Edgar Rice|The Land That Time Forgot
+Borroughs, Edgar Rice|Out Of Time's Abyss
+Borroughs, Edgar Rice|Pellucidar
+Borroughs, Edgar Rice|Savage Pellucidar
+Borroughs, Edgar Rice|Tanar Of Pellucidar
 Boswell, James|Life Of Samuel Johnson
 Botton, Alain de|The Architecture Of Happiness
 Botton, Alain de|The Consolations Of Philosophy
@@ -116,6 +136,8 @@ Botton, Alain de|Status Anxiety
 Bownas, Geoffrey|The Penguin Book Of Japanese Verse
 Boyd, Martin|The Cardboard Crown
 Boyd, Martin|When Blackbirds Sing
+Bradbury, Ray|The Illustrated Man
+Bradbury, Ray|The Martian Chronicles
 Brecht, Bertolt|Der Gute Mensch Von Sezuan
 Brecht, Bertolt|Parables For The Theatre (The Good Woman Of Setzuan/The Caucasian Chalk Circle)
 Brecht, Bertolt|Plays Volume 5 (The Life of Galileo/The Trial Of Lucullus/Mother Courage And Her Children)
@@ -217,6 +239,7 @@ Christe, Agatha|Dumb Witness
 Christe, Agatha|Lord Edgware Dies
 Christe, Agatha|Postern of Fate
 Clark, Barrett H.|Great Short Stories Of The World
+Clark, Manning|History Of Australia
 Clark, Manning|Occasional Writings and Speeches
 Clarke, Marcus|For The Term Of His Natural Life
 Clarke, Susanna|Jonathan Strange And Mr Norrell
@@ -249,6 +272,7 @@ Crane, Hart|Complete Poems
 Creeley, Robert|Echoes
 Cummings, E.E.|Complete Poems 1913-1935
 Dalai Lama|The Wisdom Of Forgiveness
+Daleski, H.M.|The Forked Flame: A Study of D.H. Lawrence
 Dante|The Divine Comedy
 Dante|The Divine Comedy: Inferno
 Dantec, Maurice G.|Babylon Babies
@@ -480,7 +504,8 @@ Heaney, Seamus|The Spirit Level
 Heaney, Seamus|Sweeney Astray
 Heine, Heinrich|Heines Werke
 Heine, Heinrich|It Will Be A Lovely Day (Prose Selection)
-Heinlein, Robert A. |Glory Road
+Heinlein, Robert A.|Glory Road
+Heinlein, Robert A.|The Green Hills Of Earth
 Heinlein, Robert A.|Job: A Comedy Of Justice
 Heller, Joseph|Catch 22
 Heller, Joseph|Picture This
@@ -810,6 +835,7 @@ Montaigne|Selected Essays
 Moore, Geoffrey|The Penguin Book Of American Verse
 Morazzoni, Marta|Girl In A Turban
 More, Thomas|Utopia
+Morgan, Sally|My Place
 Moss, Howard|The Magic Lantern Of Marcel Proust
 Muller, Herta|The Land Of Green Plums
 Munro, Alice|The Progress Of Love
@@ -843,6 +869,7 @@ Nietzsche, Friedrich|Twilight Of The Idols/The Anti-Christ
 Nouwen, Henri J.M.|The Genesee Diary: Report From A Trappitst Monastery
 O'Hagan, Andrew|Be Near Me
 O'Hagan, Andrew|The Life And Opinions Of Maf The Dog, And Of His Friend Marilyn Monroe
+O'Hagan, Andrew|Our Fathers
 O'Hara, Frank|The Collected Poems of
 Ogawa, Yoko|The Housekeeper And The Professor
 Okri, Ben|Dangerous Love
@@ -976,8 +1003,9 @@ Salinger, J.D.|The Catcher In The Rye
 Salinger, J.D.|Franny And Zoey
 Salinger, J.D.|Raise High The Roof Beam, Carpenter and Seymour: An Introduction
 Sand, George|Consuelo
+Saramago, Jose|Blindness
 Sartre, Jean-Paul|The Age Of Reason
-Satrre, Jean-Paul|The Flies/In Camera
+Sartre, Jean-Paul|The Flies/In Camera
 Sartre, Jean-Paul|Nausea
 Sartre, Jean-Paul|The Reprieve
 Sartre, Jean-Paul|Words
@@ -1172,6 +1200,7 @@ Waugh, Evelyn|The Loved One
 Waugh, Evelyn|Waugh In Abyssinia
 Wells, H.G.|The History Of Mr. Polly/The Wonderful Visit
 Wells, H.G.|Kipps
+Wells, H.G.|The War Of The Worlds
 Wharton, Edith|The Age Of Innocence
 Wharton, Edith|The Fruit Of The Tree
 Wharton, William|Scumbler
