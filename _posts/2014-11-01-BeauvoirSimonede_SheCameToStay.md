@@ -20,10 +20,10 @@ Fay Weldon in an afterword for this edition of the book writes
 This line struck me, as it resonated sympathetically with my own
 response to the book, though I would go further and say that I found
 the book suffocating. The fraught dynamic, where one of the trio's
-mood can in an instant swing from self-satisfaction to distress,
-caused minor gesture or off-the-cuff reply from another of the trio,
-whether the intent was innocent or malicious; this continual drama I
-found frustratingly unfathomable.
+mood can instantly swing from self-satisfaction to distress,
+caused by a minor gesture or off-the-cuff reply by another of the
+trio, whether the intent was innocent or malicious; this continual
+drama I found frustratingly unfathomable.
 
 Although de Beauvoir's unfliching protrayal of the trio is very
 admirable, I found reading the novel a bit of a slog.
