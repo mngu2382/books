@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Simone de Beauvoir: She Came To Stay"
+title:  "Simone de Beauvoir: She Came to Stay"
 book_id: "Beauvoir, Simone deShe Came To Stay"
-coverimg_alt: "Front cover of Simone de Beauvoir: She Came To Stay"
+coverimg_alt: "Front cover of Simone de Beauvoir: She Came to Stay"
 coverimg_src: "/img/BeauvoirSimonede_SheCameToStay.jpg"
 ---
 
