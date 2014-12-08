@@ -18,6 +18,7 @@ Allsop, F.J.|9 Poets
 Amado, Jorge|Shepherds Of The Night
 Amis, Kingsley|The Biographer's Moustache
 Amis, Kingsley|My Enemy's Enemy
+Amis, Kingsley|The Folks That Live On The Hill
 Amis, Kingsley|Jake's Thing
 Amis, Martin|Experience
 Amis, Martin|Money
@@ -68,6 +69,7 @@ Balzac, Honore de|Cousin Pons
 Balzac, Honore de|Droll Stories
 Balzac, Honore de|Eugenie Grandet
 Balzac, Honore de|Old Goriot
+Banville, John|Eclipse
 Banville, John|The Sea
 Barker, George|The True Confession Of George Barker
 Barker, Nicola|Wide Open
@@ -265,6 +267,7 @@ Conrad, Joseph|The Nigger Of The 'Narcissus'/Typhoon/And Other Stories
 Conrad, Joseph|Nostromo
 Conrad, Joseph|The Secret Agent
 Conrad, Joseph|Typhoon And Youth
+Coward, Noel|The Cream Of
 Coward, Noel|Plays: One (Hay Fever/The Vortex/Fallen Angels/Easy Virtue)
 Cowell, Brendan|How It Feels
 Cozzens, J.G.|S.S. San Pedro: A Tale Of The Sea
@@ -458,6 +461,7 @@ Greene, Graham|The Other Man (Allain, Marie Francoise)
 Greene, Graham|The Power And The Glory
 Greene, Graham|The Quiet American
 Greene, Graham|Twenty-One Stories
+Greer, Germaine|Shakespeare's Wife
 Grenville, Kate|The Secret River
 Graves, Robert|Goodbye To All That
 Graves, Robert|Greek Myths
