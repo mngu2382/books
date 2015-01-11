@@ -312,6 +312,7 @@ Dreiser, Theodore|Twelve Men
 Dumas, Alexandre|The Count Of Montecristo
 Dumas, Alexandre|The Man In The Iron Mask
 Duras, Marguerite|Summer Rain
+Duras, Marguerite|The Square/Moderato Cantabile/10:30 On A Summer Night/The Afternoon Of Mr. Andesmas
 Duras, Marguerite|Whole Days In The Trees
 Echenoz, Jean|I'm Off
 Eco, Umberto|Baudolino
@@ -450,6 +451,7 @@ Grass, Gunter|Two States - One Nation?
 Gray, Alasdair|Poor Things
 Greene, Graham|Brighton Rock
 Greene, Graham|Carving A Statue
+Greene, Graham|England Made Me
 Greene, Graham|The Comedians
 Greene, Graham|The End Of The Affair
 Greene, Graham|The Human Factor
@@ -1090,6 +1092,7 @@ Smith, Zadie|White Teeth
 Smollett, Tobias|Roderick Random
 Sogyal Rinpoche|The Tibetan Book Of Living And Dying
 Solomon, Andrew|A Stone Boat
+Solzhenitsyn, Alexander|The First Circle
 Solzhenitsyn, Alexander|The Caner Ward
 Solzhenitsyn, Alexander|For The Good Of The Cause
 Solzhenitsyn, Alexander|The Gulag Archipelago
