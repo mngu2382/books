@@ -816,6 +816,7 @@ Meade, Micheal|Men And The Water Of Life
 Melville, Herman|Moby Dick
 Memon, Muhammad Umar|An Epic Unwritten
 Meredith, George|The Egoist
+Michaels, Anne|The Winter Vault
 Mill, John Stuart|On Liberty
 Miller, Arthur|All My Sons
 Miller, Arthur|The Crucible
@@ -1169,6 +1170,7 @@ Thomas, Dylan|The Poems
 Thomas, Dylan|Poet In The Making: The Notebooks Of
 Thomas, Dylan|Under Milk Wood
 Thompson, John|The Penguin Book Of Modern Australian Verse
+Toibin, Colm|Brooklyn
 Toibin, Colm|The Heather Blazing
 Toibin, Colm|The Master
 Toibin, Colm|The Story Of The Night
