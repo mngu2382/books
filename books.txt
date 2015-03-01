@@ -632,6 +632,7 @@ Kureishi, Hanif|Love In A Blue Time
 Kurkov, Andrey|A Matter Of Life And Death
 Kurkov, Andrey|The President's Last Love
 Kusano, Shimpei|Asking Myself Answering Myself
+Lahiri, Jhumpa|The Lowland
 Lanchester, John|The Debt To Pleasure
 Lao Tzu|The Way Of Life (Trans. Witter Bynner)
 Lardner, Ring, Jr.|The Ecstasy Of Owen Muir
@@ -816,6 +817,7 @@ Meade, Micheal|Men And The Water Of Life
 Melville, Herman|Moby Dick
 Memon, Muhammad Umar|An Epic Unwritten
 Meredith, George|The Egoist
+Michaels, Anne|The Winter Vault
 Mill, John Stuart|On Liberty
 Miller, Arthur|All My Sons
 Miller, Arthur|The Crucible
@@ -891,7 +893,7 @@ O'Neill, Eugene|Ah, Wilderness!/The Hairy Ape/All God's Chillun Got Wings
 O'Neill, Eugene|Anna Christie/The Emperor Jones/Desire Under The Elms
 O'Neill, Eugene|The Iceman Cometh
 O'Neill, Eugene|Long Day's Journey Into Night
-O'Niell, Eugene|A Moon For The Misbeggotten
+O'Neill, Eugene|A Moon For The Misbegotten
 O'Neill, Eugene|Mourning Becomes Electra
 Orwell, George|Nineteen Eighty-Four
 Oswald, Ian|Sleep
@@ -1106,6 +1108,7 @@ Sophocles|Electra/Philoctetes/Women Of Trachis/Ajax
 Sophocles|The Thebian Plays (King Oedipus/Oedipus At Colonus/Antigone)
 Soseki, Natsume|Kokoro
 Soueif, Ahdaf|I Think Of You
+Souhami, Diana|Gertrude And Alice
 Spark, Muriel|The Bachelors
 Spark, Muriel|The Ballad Of Peckham Rye
 Spark, Muriel|The Driver's Seat
@@ -1169,6 +1172,7 @@ Thomas, Dylan|The Poems
 Thomas, Dylan|Poet In The Making: The Notebooks Of
 Thomas, Dylan|Under Milk Wood
 Thompson, John|The Penguin Book Of Modern Australian Verse
+Toibin, Colm|Brooklyn
 Toibin, Colm|The Heather Blazing
 Toibin, Colm|The Master
 Toibin, Colm|The Story Of The Night
