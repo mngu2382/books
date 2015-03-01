@@ -20,7 +20,7 @@ __Aside:__ The book reproduces an anecdote recorded by Doyle, told by
 Wilde at a dinner party they both attended:
 
 > We were dicussing the cynical maximum that the good fortune of our
-> friends made use discontented. 'The devil', said Wilde, 'was once
+> friends made us discontented. 'The devil', said Wilde, 'was once
 > crossing the Lybian Desert, and he came upon a spot where a number
 > small fiends were tormenting a holy hermit. The sainted man easily
 > shook off their evil suggestions. The devil watch their failure
