@@ -1022,7 +1022,6 @@ Schiller|Schillers Werke (German)
 Schiller|Wallenstein
 Schulberg, Budd|The Disenchanted
 Schulze, Ingo|33 Moments Of Happiness
-Shaw, Wallace|The Fever
 Seiffert, Rachel|The Dark Room
 Sembene, Ousmane|God's Bits Of Wood
 Seth, Vikram|The Golden Gate
@@ -1056,12 +1055,14 @@ Shakespeare|Twelfth Night
 Shamsie, Kamila|Broken Verses
 Shamsie, Kamila|Burnt Shadows
 Shaw, Bernard|Cashel Byron's Profession
+Shaw, Bernard|The Collected Screenplays Of
 Shaw, Bernard|Heartbreak House
 Shaw, Bernard|Man And Superman
 Shaw, Bernard|Plays Pleasant (Arms And The Man/Candida/The Man Of Destiny/You Never Can Tell)
 Shaw, Bernard|Pygmalion
 Shaw, Bernard|Saint Joan
 Shaw, Bernard|Sixteen Self Sketches
+Shaw, Wallace|The Fever
 Sherdian, R.B.|Plays
 Shepard, Sam|Cruising Paradise: Tales
 Shepherd, Catherine|Daybreak
@@ -1246,6 +1247,7 @@ Wodehouse, P.G.|Spring Fever
 Wodehouse, P.G.|Uneasy Money
 Wodehouse, P.G.|Young Men In Spats
 Woledge, Brian|The Penguin Book Of French Verse
+Wolf, Naomi|Fire With Fire
 Womersley, Chris|Bereft
 Woolf, Virgina|Collected Essays: II
 Woolf, Virgina|Collected Essays: IV
