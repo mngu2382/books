@@ -2,7 +2,7 @@
 layout: post
 title:  "Eugene O'Neill: A Moon for the Misbegotten"
 book_id: "O'Neill, EugeneA Moon For The Misbegotten"
-coverimg_alt: "Front cover ofi Eugene O'Neill: A Moon for the Misbegotten"
+coverimg_alt: "Front cover of Eugene O'Neill: A Moon for the Misbegotten"
 coverimg_src: "/img/ONeillEugene_AMoonForTheMisbegotten.jpg"
 ---
 
