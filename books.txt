@@ -1022,7 +1022,6 @@ Schiller|Schillers Werke (German)
 Schiller|Wallenstein
 Schulberg, Budd|The Disenchanted
 Schulze, Ingo|33 Moments Of Happiness
-Shaw, Wallace|The Fever
 Seiffert, Rachel|The Dark Room
 Sembene, Ousmane|God's Bits Of Wood
 Seth, Vikram|The Golden Gate
@@ -1062,6 +1061,7 @@ Shaw, Bernard|Plays Pleasant (Arms And The Man/Candida/The Man Of Destiny/You Ne
 Shaw, Bernard|Pygmalion
 Shaw, Bernard|Saint Joan
 Shaw, Bernard|Sixteen Self Sketches
+Shaw, Wallace|The Fever
 Sherdian, R.B.|Plays
 Shepard, Sam|Cruising Paradise: Tales
 Shepherd, Catherine|Daybreak
