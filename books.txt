@@ -1055,6 +1055,7 @@ Shakespeare|Twelfth Night
 Shamsie, Kamila|Broken Verses
 Shamsie, Kamila|Burnt Shadows
 Shaw, Bernard|Cashel Byron's Profession
+Shaw, Bernard|The Collected Screenplays Of
 Shaw, Bernard|Heartbreak House
 Shaw, Bernard|Man And Superman
 Shaw, Bernard|Plays Pleasant (Arms And The Man/Candida/The Man Of Destiny/You Never Can Tell)
@@ -1246,6 +1247,7 @@ Wodehouse, P.G.|Spring Fever
 Wodehouse, P.G.|Uneasy Money
 Wodehouse, P.G.|Young Men In Spats
 Woledge, Brian|The Penguin Book Of French Verse
+Wolf, Naomi|Fire With Fire
 Womersley, Chris|Bereft
 Woolf, Virgina|Collected Essays: II
 Woolf, Virgina|Collected Essays: IV
