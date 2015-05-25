@@ -106,6 +106,7 @@ Bellow, Saul|Mr Sammler's Planet
 Bellow, Saul|Ravelstein
 Bellow, Saul|Seize The Day
 Berne, Suzanne|A Perfect Arrangement
+Binet, Laurent|HHhH
 Birkenhead,|Rudyard Kipling
 Blackmore, R.D.|Lorna Doone
 Boas, Frederick S.|Five Pre-Shakespearean Comedies
@@ -573,6 +574,7 @@ Ishiguro, Kazuo|A Pale View Of Hills
 Ishiguro, Kazuo|The Unconsoled
 Ishiguro, Kazuo|When We Were Orphans
 Jacobson, Howard|The Finkler Question
+James, Clive|Cultural Amnesia
 James, Henry|The Portrait Of A Lady
 James, Henry|The Wings Of The Dove
 Jarrell, Randall|Pictures From An Institution
@@ -744,6 +746,7 @@ Malouf, David|An Imaginary Life
 Malouf, David|Johnno
 Malouf, David|Ransom
 Malouf, David|Remembering Babylon
+Mahler, Gustav|Letters To His Wife
 Mahler-Werfel, Alma|Diaries 1898-1902
 Makine, Andrei|A Hero's Daughter
 Malraux, Andre|Man's Estate
@@ -1119,6 +1122,7 @@ Spark, Muriel|The Snobs
 Spinoza|On The Improvement Of The Understanding/The Ethics/Correspondence
 Staikos, Anderas|Les Liasons Cullinaires
 Stead, Christina|Cotter's England
+Stead, Christina|Dearest Munx: The Letters Of Christina Stead and William J. Blake
 Stead, Christina|For Love Alone
 Stead, Christina|I'm Dying Laughing
 Stead, Christina|Letty Fox Her Luck
