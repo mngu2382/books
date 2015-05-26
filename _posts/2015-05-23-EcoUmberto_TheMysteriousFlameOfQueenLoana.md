@@ -8,9 +8,9 @@ coverimg_src: "/img/EcoUmberto_TheMysteriousFlameOfQueenLoana.jpg"
 
 _May 2015_
 
-We are introduced to our hexagenerian, Milanese, antique book dealer
+We are introduced to our hexagenerian, Milanese antique book dealer
 and protagonist Yambo, as he wakes up in hospital after some
-undisclosed accident. And it seems that he has recovered well enough,
+undisclosed incident. And it seems that he has recovered well enough,
 except that he has lost all of his personal memories, so that, while
 he can rattle off facts about Napoleon and quote T.S. Eliot, Yambo
 cannot recall his own name, or that he is a husband, father and
