@@ -21,6 +21,7 @@ Amis, Kingsley|My Enemy's Enemy
 Amis, Kingsley|The Folks That Live On The Hill
 Amis, Kingsley|Jake's Thing
 Amis, Martin|Experience
+Amis, Martin|Dead Babies
 Amis, Martin|Money
 Amis, Martin|The Rachel Papers
 Amis, Martin|The Second Plane
@@ -503,6 +504,7 @@ Hazzard, Shirley|The Great Fire
 Hazzard, Shirley|People In Glass Houses
 Hazzard, Shirley|The Transit Of Venus
 Heaney, Seamus|Electric Lights
+Heaney, Seamus|Finders Keepers
 Heaney, Seamus|North
 Heaney, Seamus|The New Selected Poems 1966-1987
 Heaney, Seamus|The Rattle Bag
@@ -543,7 +545,8 @@ Hoeg, Peter|Miss Smilia's Felling For Snow
 Hoff, Benjamin|The Tao Of Pooh
 Hofmann, Gert|Luck
 Hogan, Edward|Blackmoor
-Holderlin Friedrich|Hyperion
+Holderlin, Friedrich|Hyperion
+Holderlin, Friedrich|Peter Weiss
 Holm, Anne|I Am David
 Holroyd, Michael|Bernard Shaw
 Homer|The Iliad
@@ -985,6 +988,7 @@ Roth, Philip|Deception
 Roth, Philip|Everyman
 Roth, Philip|The Facts
 Roth, Philip| Goodbye, Columbus
+Roth, Philip|The Human Stain
 Roth, Philip|The Humbling
 Roth, Philip|Letting Go
 Roth, Philip|The Plot Against America
@@ -1134,6 +1138,7 @@ Steinbeck, John|Grapes Of Wrath
 Steinbeck, John|In Dubious Battle
 Steinbeck, John|The Long Valley
 Steinbeck, John|The Pearl
+Steinbeck, John|Travels With Charley
 Steiner, George|Anno Domini
 Stendhal|Armance
 Stendhal|The Charterhouse Of Parma
@@ -1162,6 +1167,7 @@ Synge, J.M.|The Complete Plays
 Synge, J.M.|Plays, Poems and Prose
 Swift, Graham|Last Orders
 Swift, Jonathan|Gulliver's Travels
+Tagore, Rabindranath|Collected Poems And Plays
 Tanizaki, Junichiro|In Praise Of Shadows
 Tanizaki, Junichiro|The Key
 Tanizaki, Junichiro|The Makioka Sisters
