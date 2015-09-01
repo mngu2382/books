@@ -32,6 +32,7 @@ Anonymous|The Lands Where Stories End
 Anouilh, Jean|The Fighting Cock
 Anouilh, Jean|Five Plays (Antigone/The Lark/Poor Bitos/Leocadia/The Waltz of the Toreadors)
 Anouilh, Jean|The Rehearsal
+Aquinas, Thomas|A Catechetical Instruction
 Arden, John|Serjeant Musgrave's Dance
 Ariosto, Ludovico|Orlando Furioso 2
 Aristophanes|The Wasps/The Poet And The Women/The Frogs
@@ -381,12 +382,14 @@ Franklin, Miles|My Brilliant Career/My Career Goes Bung
 Franzen, Jonathan|The Corrections
 Franzen, Jonathan|Freedom
 Franzen, Jonathan|How To Be Alone
+Franzen, Jonathan|The Twenty-Seventh City
 Freud, Sigmund|Civilisation And Its Discontents
 Friel, Brian|Dancing At Lughnasa
 Friel, Brian|Plays One (Philadelphia, Here I Come!/The Freedom Of The City/Living Quarters/Aristocrats/Faith Healer/Translations
 Frisch, Max|Andorra
 Frost, Robert|The Poetry Of Robert Frost
 Frost, Robert|Selected Poems
+Fry, Stephen|The Fry Chronicles: An Autobiography
 Foucault, Michel|Maurice Blanchot: The Thought From Outside
 Gaarder, Jostein|Sophie's World
 Galdos, Perez|The Spendthrift
@@ -495,6 +498,7 @@ Harris, Thomas|Hannibal
 Harris, Thomas|Red Dragon
 Harwood, Gwen|Selected Poems
 Hastings, Michael|Tom And Viv
+Hawking, Stephen|A Brief History Of Time
 Hawthorn, Nathaniel|The House Of The Seven Gables
 Hawthorn, Nathaniel|The Scarlet Letter And Selected Tales
 Havel, Vaclav|Largo Desolato (German)
@@ -739,7 +743,10 @@ Mahfouz, Naguib|Palace Walk
 Mahfouz, Naguib|Sugar Street
 Mahfouz, Naguib|The Time And The Place and Other Stories
 Mahjoub, Jamal|Travelling With Djinns
+Mahler, Gustav|Letters To His Wife
+Mahler-Werfel, Alma|Diaries 1898-1902
 Mailer, Norman|Ancient Evenings
+Makine, Andrei|A Hero's Daughter
 Malouf, David|Child's Play
 Malouf, David|The Conversation At Curlow Creek
 Malouf, David|Every Move You Make
@@ -747,11 +754,9 @@ Malouf, David|Gesture Of A Hand
 Malouf, David|The Great World
 Malouf, David|An Imaginary Life
 Malouf, David|Johnno
+Malouf, David|Made In England
 Malouf, David|Ransom
 Malouf, David|Remembering Babylon
-Mahler, Gustav|Letters To His Wife
-Mahler-Werfel, Alma|Diaries 1898-1902
-Makine, Andrei|A Hero's Daughter
 Malraux, Andre|Man's Estate
 Manguel, Alberto|Reading Pictures
 Mann, Thomas|Buddenbrooks
@@ -805,6 +810,8 @@ McAlpine, Alistair|The Servant
 McCarthy, Cormac|All The Pretty Horses
 McCarthy, Cormac|Cities Of The Plains
 McCarthy, Cormac|The Crossing
+McCarthy, Cormac|No Country For Old Men
+McCarthy, Cormac|The Road
 McCourt, Frank|Angela's Ashes
 McCourt, Frank|'Tis
 McEwan, Ian|Amsterdam
@@ -919,6 +926,7 @@ Phillips, Lois|Lieder Line By Line
 Pierre, D.B.C.|Ludmila's Broken English
 Pierre, D.B.C.|Vernon God Little
 Pinero, Arthur Wing|Three Plays (The Magistrate/The Second Mrs. Tanqueray/Trelawny Of The 'Wells')
+Pinker, Steven|The Language Instinct
 Pinter, Harold|Betrayal
 Pinter, Harold|The Birthday Party
 Pinter, Harold|The Caretaker
@@ -1173,6 +1181,7 @@ Tanizaki, Junichiro|The Key
 Tanizaki, Junichiro|The Makioka Sisters
 Tanizaki, Junichiro|Some Prefer Nettles
 Temple, Peter|The Broken Shore
+Temple, Peter|In The Evil Day
 Temple, Peter|Shooting Star
 Temple, Peter|Truth
 Tennyson, Alfred Lord|Selected Poems
@@ -1205,6 +1214,7 @@ Van Der Post, Laurens|The Voice Of Thunder
 Vargas Llosa, Mario|A Fish In The Water
 Vargas Llosa, Mario|In Praise Of The Stepmother
 Vargas Llosa, Mario|The Notebooks Of Don Rigoberto
+Vargas Llosa, Mario|The War Of The End Of The World
 Vargas Llosa, Mario|The Way To Paradise
 Verne, Jules|Journey To The Centre Of The Earth
 Vidal, Gore|Williwaw
@@ -1230,6 +1240,7 @@ White, Patrick|The Aunt's Story
 White, Patrick|Big Toys
 White, Patrick|The Burnt Ones
 White, Patrick|Collected Plays Volume I
+White, Patrick|A Fringe Of Leaves
 White, Patrick|Letters
 White, Patrick|The Twyborn Affair
 White, Patrick|The Vivisetor
