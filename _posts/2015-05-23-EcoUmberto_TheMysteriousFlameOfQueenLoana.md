@@ -24,10 +24,10 @@ to imagine what it was like to be him growing up in fascist Italy.
 
 Interesting, but not great. Yambo's life is certainly punctuated by
 events intriguing to discover, but also included are numerous, what I
-guess I will uncharitably call, mundane details (e.g.,
-quoting in full song lyrics, descriptions of magazine covers and tin
-boxes, etc.) -- details too remote from my experience to find
-interesting, but I guess will conjure great nostalgia in others.
+will uncharitably call, expositions on mundane details (e.g., quoting
+in full song lyrics, descriptions of magazine covers and tin boxes,
+etc.) -- details too remote from my experience to find interesting,
+but I guess may conjure great nostalgia in others.
 
-Eco's intertextual style comes off as academic to start, but I guess I
-got use to it.
+Eco's intertextual style comes off as academic to start, but I guess
+one gets use to it if not appreciative.
