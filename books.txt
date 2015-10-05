@@ -351,6 +351,7 @@ Enright, Anne|The Gathering
 Enright, D.J.|Selected Poems
 Enrigth, D.J.|Shakespeare And The Students
 Estes, Clarissa Pinkola|Women Who Run With The Wolves
+Eugenides, Jeffery|The Marriage Plot
 Eugenides, Jeffery|Middlesex
 Euripidies|Alcestis/Hippolytus/Iphigenia In Tauris
 Euripidies|Bacchae
@@ -441,8 +442,8 @@ Golding, William|A Moving Target
 Golding, William|The Paper Men
 Golding, William|The Spire
 Goldsmith, Oliver|The Vicar Of Wakefield
-Golgol, Nikolay|Dead Souls
-Golgol, Nikolay|Taras Bulba and Other Stories
+Gogol, Nikolay|Dead Souls
+Gogol, Nikolay|Taras Bulba and Other Stories
 Gordimer, Nadine|Beethoven Was One-Sixteenth Black
 Gordimer, Nadine|The House Gun
 Gordimer, Nadine|July's People
