@@ -15,7 +15,7 @@ layout: default
     <tr><th>Author</th><th>Title</th></tr>
   </thead>
   <tbody>{% for row in page.books %}{% assign book_id = row[0]| append: row[1] %}
-    <tr><td>{{ row[0] }}</td><td>{% if page.notes contains book_id  %}{% for post in site.posts %}{% if post.book_id == book_id %}<a href="{{ site.baseurl }}{{ post.url  }}">{{ row[1] }}</a>{% endif %}{% endfor %}{% else %}{{ row[1] }}{% endif %}</td></tr>{% endfor %}
+<tr><td>{{ row[0] }}</td><td>{% if page.notes contains book_id  %}{% for post in site.posts %}{% if post.book_id == book_id %}<a href="{{ site.baseurl }}{{ post.url  }}">{{ row[1] }}</a>{% endif %}{% endfor %}{% else %}{{ row[1] }}{% endif %}</td></tr>{% endfor %}
   </tbody>
 </table>
 
