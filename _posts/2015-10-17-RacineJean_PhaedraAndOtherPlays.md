@@ -40,5 +40,5 @@ Notwithstanding the verse translation, the lines come off quite
 prosaic. (Would be interested in getting my hands of Robert Lowell's
 translation of Phaedra.)
 
-__Aside__: [John Cairncross](TODO)
+__Aside__: [John Cairncross](https://en.wikipedia.org/wiki/John_Cairncross)
 appears to be an interesting character with an unexpected background.
