@@ -307,6 +307,7 @@ Dolley, Christopher|The Penguin Book Of English Short Stories
 Donaghy, Michael|Shibbolith
 Donne, John|The Complete English Poems
 Donoghue, Emma|Room
+Doshi, Tishani|The Pleasure Seekers
 Dostoyevsky, Fyodor|The Brothers Karamazov
 Dostoyevsky, Fyodor|Crime And Punishment
 Dostoyevsky, Fyodor|The Gentle Spirit
@@ -1225,6 +1226,7 @@ Wagner, Richard|The Diary Of Richard Wagner 1865-1882
 Waite, A.E.|The Holy Kabbalah
 Walpole, Hugh|Rogue Herries
 Warner, Rex|The Aerodrome
+Watson, Don|Bendable Learnings
 Watson, Don|Death Sentence
 Watson, Don|Recollections Of A Bleeding Heart
 Watson, Don|Weasel Words
