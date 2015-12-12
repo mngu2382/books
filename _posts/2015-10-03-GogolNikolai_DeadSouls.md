@@ -2,8 +2,6 @@
 layout: post
 title:  "Nikolay Gogol: Dead Souls"
 book_id: "Gogol, NikolayDead Souls"
-coverimg_alt: "Front cover of Nikolay Gogol: Dead Souls"
-coverimg_src: "/img/GogolNikolay_DeadSouls.jpg"
 ---
 
 _Translated by D. J. Hogarth_
@@ -16,7 +14,7 @@ having died only since the last census and so still considered alive
 for administrative purposes -- in the hope of making his fortune
 exploiting some bureaucratic loophole. This plot, a "well known
 contemporary anecdote" we are told in the introduction by Nikolay
-Andreyev,is not developed but rather serves as a vehicle for the
+Andreyev, is not developed but rather serves as a vehicle for the
 author to satirize the various characters that populate Russia, and,
 as the author puts it, to "project the whole boundless wealth of
 Russian psychology".
