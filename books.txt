@@ -612,6 +612,7 @@ Kafka, Franz|The Metamorphosis and Other Stories (The Judgement/In A Penal Colon
 Kafka, Franz|Die Verwandlung
 Kane, Sarah|Complete Plays
 Kant|The Critique of Pure Reason/The Critique of Practical Reason and Other Ethical Treaties/The Critique of Judgement
+Kavanagh, Dan|Duffy
 Kazantzakis, Nikos|The Last Temptation Of Christ
 Kazantzakis, Nikos|Report To Greco
 Kazantzakis, Nikos|Zorba The Greek
