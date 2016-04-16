@@ -608,7 +608,7 @@ Kafka, Franz|America
 Kafka, Franz|The Basic Kafka
 Kafka, Franz|Description Of A Struggle
 Kafka, Franz|Letters To Milena
-Kafka, Franz|The Metamorphosis and Other Stories (The Judgement/In A Penal Colony/A Country Doctor/A Report To An Academy
+Kafka, Franz|The Metamorphosis and Other Stories (The Judgement/In A Penal Colony/A Country Doctor/A Report To An Academy)
 Kafka, Franz|Die Verwandlung
 Kane, Sarah|Complete Plays
 Kant|The Critique of Pure Reason/The Critique of Practical Reason and Other Ethical Treaties/The Critique of Judgement
