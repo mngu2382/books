@@ -1,6 +1,7 @@
 Acton, Harold|Four Cautionary Tales
 Adams, Douglas|The Hitchhicker's Guide To The Galaxy
 Adiga, Aravind|The White Tiger
+Adorno, Theodore W.|Prisms
 Advani, Rukun|Beethoven Among The Cows
 Aeschylus|The Oresteian Trilogy
 Aeschylus|Prometheus Bound and Other Plays (The Suppliants/Seven Against Thebes/The Persians)
@@ -12,6 +13,7 @@ Albee, Edward|Box and Quotations From Chairman Mao Tse-Tung
 Albee, Edward|Who's Afraid of Virginia Woolf
 Aldington, Richard|All Men Are Enemies
 Ali, Ayaan Hirsi|Infidel
+Allen, Woody|Complete Prose
 Allende, Isabel|Daughter Of Fortune
 Allende, Isabel|Portrait In Sepia
 Allsop, F.J.|9 Poets
@@ -98,6 +100,7 @@ Beauvoir, Simone de|The Mandarins
 Beauvoir, Simone de|Memoirs Of A Dutiful Daughter
 Beauvoir, Simone de|The Second Sex
 Beauvoir, Simone de|She Came To Stay
+Becker, Ernest|The Denial Of Death
 Beckett, Samuel|All That Fall
 Beckett, Samuel|Krapp's Last Tape and Embers
 Bell, Martin|Complete Poems
@@ -201,6 +204,8 @@ Camus, Albert|The Rebel
 Capek, Karel|R.U.R.
 Capote, Truman|In Cold Blood
 Capote, Truman|Music For Chameleons
+Card, Orson Scott|Prentice Alvin
+Card, Orson Scott|Red Prophet
 Carey, Peter|Bliss
 Carey, Peter|Exotic Pleasures
 Carey, Peter|The Fat Man In History
@@ -415,6 +420,7 @@ Gibran, Kahlil|The Earth Gods
 Gibran, Kahlil|The Prophet
 Gibran, Kahlil|Secrets Of The Heart
 Gibran, Kahlil|A Tear And A Smile
+Gibran, Kahlil|The Arabic Writings of
 Gide, Andre|The Counterfeiters
 Gide, Andre|If I Die
 Gide, Andre|The Immoralist
@@ -441,6 +447,7 @@ Golding, William|The Inheritors
 Golding, William|The Lord Of The Flies
 Golding, William|A Moving Target
 Golding, William|The Paper Men
+Golding, William|Rites Of Passage
 Golding, William|The Spire
 Goldsmith, Oliver|The Vicar Of Wakefield
 Gogol, Nikolay|Dead Souls
@@ -454,6 +461,7 @@ Gorky, Maxim|Mother
 Gorky, Maxim|Through Russia: A Book Of Stories
 Grant, Jamie|The Valley Murders
 Grass, Gunter|Cat And Mouse
+Grass, Gunter|Dog Years
 Grass, Gunter|Local Anaesthetic
 Grass, Gunter|My Century
 Grass, Gunter|The Tin Drum
@@ -608,10 +616,11 @@ Kafka, Franz|America
 Kafka, Franz|The Basic Kafka
 Kafka, Franz|Description Of A Struggle
 Kafka, Franz|Letters To Milena
-Kafka, Franz|The Metamorphosis and Other Stories (The Judgement/In A Penal Colony/A Country Doctor/A Report To An Academy
+Kafka, Franz|The Metamorphosis and Other Stories (The Judgement/In A Penal Colony/A Country Doctor/A Report To An Academy)
 Kafka, Franz|Die Verwandlung
 Kane, Sarah|Complete Plays
 Kant|The Critique of Pure Reason/The Critique of Practical Reason and Other Ethical Treaties/The Critique of Judgement
+Kaufmann, Walter|Tragedy And Philosophy
 Kavanagh, Dan|Duffy
 Kazantzakis, Nikos|The Last Temptation Of Christ
 Kazantzakis, Nikos|Report To Greco
@@ -688,6 +697,7 @@ Leavis, F.R.|Revaluation
 Leavitt, David|The Penguin Book Of Penguin Short Stories
 Lee, Andrea|Lost Hearts In Italy
 Lee, Harper|To Kill A Mockingbird
+Le Guin, Ursula|Tehanu
 Leskov, Nikolai|Selected Tales
 Lessing, Doris|Alfred & Emily
 Lessing, Doris|Ben, In The World
@@ -711,6 +721,7 @@ Lessing, Doris|The Summer Before The Dark
 Lessing, Doris|The Sweetest Dream
 Lessing, Doris|The Temptation Of Jack Orkney
 Lessing, Doris|Time Bits
+Lessing, Doris|Under My Skin
 Levertov, Denise|The Feeling Of The Dust
 Levin, Ira|The Stepford Wives
 Levy, Andrea|Small Island
@@ -878,12 +889,14 @@ Naipaul, V.S.|A Bend In The River
 Naipaul, V.S.|The Enigma Of Arrival
 Naipaul, V.S.|Half A Life
 Naipaul, V.S.|Magic Seeds
+Naipaul, V.S.|The Middle Passage
 Naipaul, V.S.|The Mimic Men
 Nasar, Sylvia|A Beautiful Mind
 Nemirovsky, Irene|Fire In The Blood
 Nemirovsky, Irene|Jezabel
 Nemirovsky, Irene|Suite Fancaise
 Neruda, Pablo|Selected Poems: A Bilingual Edition
+Newby, Eric|A Short Walk In The Hindu Kush
 Nichols, Grace|The Fat Black Woman's Poems
 Nichols, Peter|A Day In The Death Of Joe Egg
 Nietzsche, Friedrich|My Sister And I
@@ -939,6 +952,7 @@ Pirandello, Luigi|Right You Are! (If You Think So)/All For The Best/Henry IV
 Pirandello, Luigi|Three Plays (Sei Personaggi In Cerca D'Autore/Enrico IV/La Giara) (Italian)
 Pirsig, Robert M.|Lila
 Pirsig, Robert M.|Zen And The Art Of Motorcycle Maintenance
+Plath, Sylvia|Ariel
 Plath, Sylvia|Letters Home
 Plato|Five Dialogues (Ion/Symposium/The Meno/Phaedo/Phaedrus)
 Plato|The Republic
@@ -998,22 +1012,25 @@ Roth, Philip|The Anatomy Lesson
 Roth, Philip|Deception
 Roth, Philip|Everyman
 Roth, Philip|The Facts
-Roth, Philip| Goodbye, Columbus
+Roth, Philip|Goodbye, Columbus
 Roth, Philip|The Human Stain
 Roth, Philip|The Humbling
 Roth, Philip|Letting Go
 Roth, Philip|The Plot Against America
 Roth, Philip|Portnoy's Complaint
+Roth, Philip|Sabbath's Theater
 Roy, Arundhati|The God Of Small Things
 Rouand, Jean|Fields Of Glory
 Rousseau, Jean-Jacques|Reveries Of A Solitary Walker
 Rousseau, Mary F.|The Apple Or Aristotle's Death
 Rubens, Bernice|Autobiopsy
 Rumi|The Book Of Love
+Rushdie, Salman|The Enchantress Of Florence
 Rushdie, Salman|Fury
 Rushdie, Salman|Grimus
 Rushdie, Salman|The Ground Beneath Her Feet
 Rushdie, Salman|Haroun And The Sea  Of Stories
+Rushdie, Salman|Luka And The Fire Of Life
 Rushdie, Salman|Midnight's Children
 Rushdie, Salman|The Moor's Last Sigh
 Rushdie, Salman|The Satanic Verses
@@ -1045,6 +1062,7 @@ Sembene, Ousmane|God's Bits Of Wood
 Seth, Vikram|The Golden Gate
 Seton, Anya|Katherine
 Seymour, Miranda|The Summer Of '39
+Shakespeare, Nicholas|Bruce Chatwin
 Shakespeare|Four Tragedies (King Lear/Hamlet/Othello/Macbeth)
 Shakespeare|All's Well That Ends Well
 Shakespeare|Antony And Cleopatra
@@ -1086,6 +1104,7 @@ Shepard, Sam|Cruising Paradise: Tales
 Shepherd, Catherine|Daybreak
 Shields, Carol|The Box Garden
 Shields, Carol|Collected Stories
+Shields, Carol|Dressing Up For The Carnival
 Shields, Carol|Larry's Party
 Shields, Carol|Mary Swann
 Shields, Carol|The Republic Of Love
@@ -1274,12 +1293,13 @@ Wodehouse, P.G.|Young Men In Spats
 Woledge, Brian|The Penguin Book Of French Verse
 Wolf, Naomi|Fire With Fire
 Womersley, Chris|Bereft
-Woolf, Virgina|Collected Essays: II
-Woolf, Virgina|Collected Essays: IV
-Woolf, Virgina|Orlando
-Woolf, Virgina|A Room Of One's Own
-Woolf, Virgina|Three Guineas
-Woolf, Virgina|To The Lighthouse
+Woolf, Virginia|Collected Essays: II
+Woolf, Virginia|Collected Essays: IV
+Woolf, Virginia|Orlando
+Woolf, Virginia|A Room Of One's Own
+Woolf, Virginia|Three Guineas
+Woolf, Virginia|To The Lighthouse
+Woolf, Virginia|The Waves
 Wordsworth, William|The Prelude
 Wordsworth, William|William Wordsworth
 Yang, Xainyi|Poetry And Prose Of The Han, Wei and Six Dynasties
